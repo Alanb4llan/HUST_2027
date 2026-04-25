@@ -1,0 +1,13 @@
+setAutoBusOffRecovery(true);
+
+Default: false
+
+Why: If there is a spike of EMI (Electromagnetic Interference) from your motor, the CAN peripheral might enter a "Bus Off" state to protect the network. If this is false, your CAN stops working entirely until you reset the chip. Setting it to true allows the STM32 to automatically try to rejoin the bus once the noise clears.
+
+
+
+setIRQPriority(5, 0);
+
+Default: 15 (Lowest)
+
+Why: On STM32, priority 0 is the highest and 15 is the lowest. You want your CAN interrupt to be higher priority than "slow" things like UI updates or generic timers, but perhaps lower than a critical "Emergency Stop" pin interrupt. Setting it to a middle-high value like 5 is a safe bet for automotive work.
