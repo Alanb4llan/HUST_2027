@@ -67,6 +67,10 @@ struct MPPTData {
 // LORA INITIALIZATION
 // ==================================================================================
 
+float sendInterval = 1.0;     // seconds between sends (used by sender)
+int   sf           = 7;       // spreading factor
+long  sbw          = 125000;  // bandwidth: 125 kHz
+
 void setupLoRa() {
   Serial.println("Initializing LoRa radio...");
 
