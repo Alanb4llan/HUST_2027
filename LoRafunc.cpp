@@ -1,17 +1,6 @@
-#include "LoRa_functions.h"
-
-// ==================================================================================
-// LORA + CAN DATA INTEGRATION
-// ==================================================================================
-// This file handles packaging CAN telemetry data and transmitting via LoRa
-// ==================================================================================
-
-// External variables from main sketch (canarduinorx.ino)
-extern float MotorCurrent, MotorVoltage, VehicleVelocity, MotorRPM, Amps, Distance, HeatSinkTemp, MotorTemp;
-extern uint8_t InternalTempBMS, CellHighTemperature, CellLowTemperature, CellAverageTemperature, CellHighTemperature_ID, CellLowTemperature_ID;
-extern double PackCurrent, PackVoltage, LowCellVoltage, HighCellVoltage, AverageCellVoltage;
-extern double MPPTOutputPower1, MPPTOutputPower2, MPPTOutputPower3, TotMPPT;
-extern bool Left_Turn, Right_Turn, Hazard, CCactive, MCerror, HighTemp, BMSerror;
+#include "LoRafunc.h"
+#include <Arduino.h>
+#include "global.h"
 
 // LoRa transmission timing
 unsigned long lastLoRaSend = 0;

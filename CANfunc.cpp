@@ -1,4 +1,4 @@
-#include "STM32_CAN.h"
+#include "CANfunc.h"
 
 /* * ==================================================================================
  * CAN BUS TOPOLOGY & IDENTIFIER MAP
@@ -58,12 +58,13 @@ void sendDashboardCAN() {
 
   Can.write(txMsg);
 }
+*/
 
-/**
- * Reads and decodes all messages currently in the STM32 RX buffer
- */
+STM32_CAN Can(PB8, PB9); 
+CAN_message_t rxMsg;
+CAN_message_t txMsg;
+
 void CanReadAll() {
-  // Loop through all messages waiting in the hardware FIFO
   while (Can.read(rxMsg)) {
     switch (rxMsg.id) {
       case 0x401: 
