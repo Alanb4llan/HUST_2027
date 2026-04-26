@@ -60,9 +60,6 @@ void sendDashboardCAN() {
 }
 */
 
-STM32_CAN Can(PB8, PB9); 
-CAN_message_t rxMsg;
-CAN_message_t txMsg;
 
 void CanReadAll() {
   while (Can.read(rxMsg)) {

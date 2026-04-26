@@ -3,14 +3,6 @@
 #include "LoRafunc.h"
 #include "CANfunc.h"
 
-float MotorCurrent, MotorVoltage, VehicleVelocity, MotorRPM, Amps, Distance, HeatSinkTemp, MotorTemp;
-uint8_t InternalTempBMS, CellHighTemperature, CellLowTemperature, CellAverageTemperature, CellHighTemperature_ID, CellLowTemperature_ID;
-double PackCurrent, PackVoltage, LowCellVoltage, HighCellVoltage, AverageCellVoltage;
-double MPPTOutputPower1, MPPTOutputPower2, MPPTOutputPower3, TotMPPT;
-float TargetRPM, TargetCurrent, Brake;
-bool Left_Turn, Right_Turn, Hazard, CCactive, MCerror, HighTemp, BMSerror; 
-unsigned long prevmsg = 0;
-
 void setup() {
   Serial.begin(115200);
   

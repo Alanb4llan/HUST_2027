@@ -63,4 +63,13 @@ extern bool BMSerror;
 // --- Timing ---
 extern unsigned long prevmsg;
 
+// --- LoRa Settings ---
+extern float sendInterval;
+extern int   sf;
+extern long  sbw;
+ 
+// --- LoRa Internal State ---
+extern unsigned long lastLoRaSend;
+extern uint16_t      packetCounter;
+
 #endif
