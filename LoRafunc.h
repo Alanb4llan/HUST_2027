@@ -26,8 +26,8 @@ struct CriticalData {
   float packVoltage;       // V
   float packCurrent;       // A
   float motorCurrent;      // A
-  uint8_t flags;           // Bit flags for errors/warnings
-  uint16_t counter;        // Packet counter
+  uint8_t flags;           // Bit flags for errors/warnings [0]MCerror [1]BMSerror [2]HighTemp [3]Left [4]Right [5]Hazard [6]CC
+  uint16_t counter;        // Packet counter 
 } __attribute__((packed));
 
 // Structure 2: Battery Data (Priority 2)
@@ -59,9 +59,6 @@ struct MPPTData {
   uint16_t counter;        // Packet counter
 } __attribute__((packed));
 
-extern float sendInterval;
-extern int sf;
-extern long sbw;
 
 void setupLoRa();
 void sendLoRaTestMessage();  
