@@ -18,7 +18,7 @@ Firmware for HUST's Bridgestone World Solar Challenge 2027 car. The old ESP32 fi
 - `regulations/`: 2027 BWSC regulations. **Event Regulations V1.0** is the one that matters
 - `can_protocol/can_ids.md`: CAN ID map
 - `docs/`: `pin_map.md`, `port_plan.md`, `regulations_electrical.md`, `tips-and-tricks.txt`
-- `graphify-out/`: knowledge graph (`graph.json`, `GRAPH_REPORT.md`, `graph.html`) plus `converted/` text versions of the netlists, xlsx and PDFs. Query it with `graphify query "..."`
+- `graphify-out/`: knowledge graph (`graph.json`, `GRAPH_REPORT.md`, `graph.html`) plus `converted/` text versions of the netlists, xlsx and PDFs. Query it with `graphify query "..."`. It is **gitignored and local only**; if it's missing, rebuild it with `/graphify`
 
 KiCad files are plain text. For pin/net questions, export a netlist (`"C:\Program Files\KiCad\10.0\bin\kicad-cli.exe" sch export netlist hardware/main_pcb/HUVUD_PCB.kicad_sch -o out.net`) or read `graphify-out/converted/main_pcb_netlist.md`.
 

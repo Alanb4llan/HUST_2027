@@ -27,3 +27,6 @@ build/
 *.bin
 *.elf
 *.hex
+
+# graphify knowledge graph (local, regenerate with /graphify)
+graphify-out/
