@@ -1,0 +1,9 @@
+Manufacturer=Würth Elektronik
+PartNumber=615008160021
+PartCategory=Connector
+PackageCategory=Other
+PinCount=10
+Version=5.11
+Released=2022-07-19 06:20:20
+Downloaded=2026-04-27 10:35:40
+3D=N

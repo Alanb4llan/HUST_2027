@@ -1,0 +1,9 @@
+Manufacturer=Diodes Incorporated
+PartNumber=DMN3023L-7
+PartCategory=MOSFET (N-Channel)
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=6.1
+Released=2019-02-19 06:17:48
+Downloaded=2026-04-27 10:23:29
+3D=Y

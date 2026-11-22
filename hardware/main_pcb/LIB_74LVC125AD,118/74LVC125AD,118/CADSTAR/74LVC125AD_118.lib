@@ -1,0 +1,16 @@
+.74LVC125AD_118 :1 ;74LVC125A - Quad buffer/line driver with 5 V tolerant input/outputs; 3-state@en-us
+"74LVC125AD118"
+*STM IC
+*NGS
+*PLB 1="1'OE'" 2="1A" 3="1Y" 4="2'OE'" 5="2A" 6="2Y" 7="GND" 8="3Y" 9="3A" 10="3'OE'" 11="4Y" 12="4A" 13="4'OE'" 14="VCC"
+*MXP 14
+*DFN 74LVC125AD_118
+~!Mouser Part Number (771-74LVC125AD-T)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Nexperia/74LVC125AD118?qs=me8TqzrmIYXjiwMtzMYzqA%3D%3D)
+~!Manufacturer_Name (Nexperia)
+~!Manufacturer_Part_Number (74LVC125AD,118)
+~!Link Datasheet (https://assets.nexperia.com/documents/data-sheet/74LVC125A.pdf)
+~!Height (1.75mm)
+~!3D_Model (74LVC125AD,118)
+"74LVC125AD_118"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 

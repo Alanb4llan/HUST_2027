@@ -1,0 +1,16 @@
+.SSB44-E3_5BT :1 ;Rectifier Diode Schottky 40V 4A 2-Pin SMB T/R
+DIOM5436X244N
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN SSB44-E3_5BT
+~!Mouser Part Number (625-SSB44-E3/5BT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-General-Semiconductor/SSB44-E3-5BT?qs=x2jpVgRnAtPlxEbHZNqb7g%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (SSB44-E3/5BT)
+~!Link Datasheet (http://www.vishay.com/docs/88884/ssb43l.pdf)
+~!Height (2.44mm)
+~!3D_Model (SSB44-E3_5BT)
+SSB44-E3_5BT
+1.1!U 2.1!U 

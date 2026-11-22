@@ -1,0 +1,16 @@
+.DMN3023L-7 :1 ;MOSFET N-Ch Enh Mode FET 30Vdss 20Vgss 51A
+SOT96P240X110-3N
+*STM Q
+*NGS
+*PLB 1="G" 2="S" 3="D"
+*MXP 3
+*DFN DMN3023L-7
+~!Mouser Part Number (621-DMN3023L-7)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMN3023L-7?qs=MNIFWdyJgbpS4HSLyrAo5g%3D%3D)
+~!Manufacturer_Name (Diodes Incorporated)
+~!Manufacturer_Part_Number (DMN3023L-7)
+~!Link Datasheet (https://www.diodes.com//assets/Datasheets/DMN3023L.pdf)
+~!Height (1.1mm)
+~!3D_Model (DMN3023L-7)
+DMN3023L-7
+1.1!U 2.1!U 3.1!U 

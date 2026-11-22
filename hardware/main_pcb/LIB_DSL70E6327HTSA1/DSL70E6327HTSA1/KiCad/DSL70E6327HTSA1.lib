@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model DSL70E6327HTSA1
+#/672526/2032364/2.50/4/3/TVS Diode (Uni-directional)
+DEF DSL70E6327HTSA1 D 0 30 Y Y 1 F N
+F0 "D" 1050 300 50 H V L CNN
+F1 "DSL70E6327HTSA1" 1050 200 50 H V L CNN
+F2 "DSL70E6327HTSA1" 1050 100 50 H I L CNN
+F3 "https://www.infineon.com/dgdl/Infineon-DSL70-DS-v01_01-en.pdf?fileId=db3a30431441fb5d0114927e397f1007" 1050 0 50 H I L CNN
+F4 "ESD Suppressors / TVS Diodes ESD/EMI PROTECTION WIRELINE 15kV 50V" 1050 -100 50 H I L CNN "Description"
+F5 "1.1" 1050 -200 50 H I L CNN "Height"
+F6 "726-DSL70E6327HTSA1" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/DSL70E6327HTSA1?qs=K00xGehIljvhVLVgAZqOZg%3D%3D" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Infineon" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "DSL70E6327HTSA1" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X I/O_1 1 0 0 200 R 50 50 0 0 P
+X I/O_2 2 0 -100 200 R 50 50 0 0 P
+X I/O_3 3 1200 -100 200 L 50 50 0 0 P
+X I/O_4 4 1200 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

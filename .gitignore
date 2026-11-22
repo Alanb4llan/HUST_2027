@@ -1,0 +1,29 @@
+# Original source zips (too big for GitHub, kept locally)
+hardware/_source_zips/
+
+# KiCad autosaves, backups and caches
+*-backups/
+.history/
+fp-info-cache
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.kicad_prl
+*.lck
+~$*
+
+# 3D models (large, only needed for the 3D viewer)
+*.step
+*.STEP
+*.stp
+*.wrl
+
+# Installers
+*.msi
+*.ex_
+*.exe
+
+# Build output
+build/
+*.bin
+*.elf
+*.hex

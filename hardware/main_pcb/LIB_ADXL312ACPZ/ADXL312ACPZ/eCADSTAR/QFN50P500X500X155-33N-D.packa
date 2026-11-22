@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ADXL312ACPZ"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-01-20-11:07:55)
+    (mountForm default
+        (footprintRef "QFN50P500X500X155-33N-D")
+        (spec "System")
+    )
+)

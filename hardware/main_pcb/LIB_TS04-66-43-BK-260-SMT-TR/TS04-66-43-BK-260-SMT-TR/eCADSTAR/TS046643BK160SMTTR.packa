@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TS04-66-43-BK-260-SMT-TR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2026-04-21-08:34:47)
+    (mountForm default
+        (footprintRef "TS046643BK160SMTTR")
+        (spec "System")
+    )
+)

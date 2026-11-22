@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "74LVC125AD118"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "74LVC125AD118")
+        (spec "default")
+    )
+)

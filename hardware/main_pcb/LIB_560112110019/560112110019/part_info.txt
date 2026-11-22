@@ -1,0 +1,9 @@
+Manufacturer=Würth Elektronik
+PartNumber=560112110019
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=4.1
+Released=2025-01-23 09:53:12
+Downloaded=2026-04-18 13:40:27
+3D=N

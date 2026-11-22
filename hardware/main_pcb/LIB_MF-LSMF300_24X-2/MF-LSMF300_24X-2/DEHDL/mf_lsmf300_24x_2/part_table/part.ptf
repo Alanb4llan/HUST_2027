@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MF_LSMF300_24X_2'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Bourns", "MF-LSMF300/24X-2" (!) = "", "FUSC7451X160N", "Fuses Chip", "652-MF-LSMF300/24X-2", "https://www.mouser.co.uk/ProductDetail/Bourns/MF-LSMF300-24X-2?qs=LaERWbmZ8SQFElU5s8JsYg%3D%3D", "PTC - (2920)SURFACE MNT Bourns 3A Surface Mount Resettable Fuse, 24 V", "https://www.bourns.com/docs/Product-Datasheets/mflsmf.pdf", "1.6 mm"
+END_PART
+
+END.

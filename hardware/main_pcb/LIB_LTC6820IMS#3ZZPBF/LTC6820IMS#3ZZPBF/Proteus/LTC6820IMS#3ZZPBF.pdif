@@ -1,0 +1,192 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "LTC6820IMS#3ZZPBF"
+   (description "Isolated Communications Interface Interface 16-MSOP")
+   (family "ANA")
+   (package "SOP50P490X110-16N")
+   (attribute "Datasheet Link" "http://www.linear.com/docs/42317")
+   (attribute "Geometry.Height" "1.1mm")
+   (attribute "Mouser Part Number" "584-6820IMS#3ZZPB")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Analog-Devices/LTC6820IMS3ZZPBF?qs=byeeYqUIh0N8RiK1UGlHvA%3D%3D")
+   (attribute "Manufacturer_Name" "Analog Devices")
+   (attribute "Manufacturer_Part_Number" "LTC6820IMS#3ZZPBF")
+   (gate
+    (symbol "LTC6820IMS#3ZZPBF")
+    (pin "EN" 1 PS)
+    (pin "MOSI" 2 PS)
+    (pin "MISO" 3 PS)
+    (pin "SCK" 4 PS)
+    (pin "$CS$" 5 PS)
+    (pin "VDDS" 6 PS)
+    (pin "POL" 7 PS)
+    (pin "PHA" 8 PS)
+    (pin "IBIAS" 16 PS)
+    (pin "ICMP" 15 PS)
+    (pin "GND" 14 PS)
+    (pin "SLOW" 13 PS)
+    (pin "MSTR" 12 PS)
+    (pin "IP" 11 PS)
+    (pin "IM" 10 PS)
+    (pin "VDD" 9 PS)
+   )
+  )
+  (symbol "LTC6820IMS#3ZZPBF"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1000 100) (pt 1000 -800) (pt 200 -800) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -600) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -700) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -600) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -700) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SOP50P490X110-16N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -3.175 2.32)
+      (pt 3.175 2.32)
+      (pt 3.175 -2.32)
+      (pt -3.175 -2.32)
+      (pt -3.175 2.32))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.5 2.02)
+      (pt 1.5 2.02)
+      (pt 1.5 -2.02)
+      (pt -1.5 -2.02)
+      (pt -1.5 2.02))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.5 1.52)
+      (pt -1 2.02))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.15 2.02)
+      (pt 1.15 2.02)
+      (pt 1.15 -2.02)
+      (pt -1.15 -2.02)
+      (pt -1.15 2.02))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -2.925 2.25)
+      (pt -1.5 2.25))))
+   (leg 1 (pt -2.212 1.75) (padstack 0))
+   (leg 2 (pt -2.212 1.25) (padstack 0))
+   (leg 3 (pt -2.212 0.75) (padstack 0))
+   (leg 4 (pt -2.212 0.25) (padstack 0))
+   (leg 5 (pt -2.212 -0.25) (padstack 0))
+   (leg 6 (pt -2.212 -0.75) (padstack 0))
+   (leg 7 (pt -2.212 -1.25) (padstack 0))
+   (leg 8 (pt -2.212 -1.75) (padstack 0))
+   (leg 9 (pt 2.212 -1.75) (padstack 0))
+   (leg 10 (pt 2.212 -1.25) (padstack 0))
+   (leg 11 (pt 2.212 -0.75) (padstack 0))
+   (leg 12 (pt 2.212 -0.25) (padstack 0))
+   (leg 13 (pt 2.212 0.25) (padstack 0))
+   (leg 14 (pt 2.212 0.75) (padstack 0))
+   (leg 15 (pt 2.212 1.25) (padstack 0))
+   (leg 16 (pt 2.212 1.75) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.3 1.425 0 0 0))
+   )
+   (model "LTC6820IMS#3ZZPBF.stp"
+    (euler 90 0 90)
+    (offset 0 0 0.10000000149011612)
+   )
+  )
+ )
+)

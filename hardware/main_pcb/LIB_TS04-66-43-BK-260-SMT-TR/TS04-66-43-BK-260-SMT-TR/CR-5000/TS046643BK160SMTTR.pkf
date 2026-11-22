@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "TS046643BK160SMTTR"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "TS046643BK160SMTTR")
+        (spec "default")
+    )
+)

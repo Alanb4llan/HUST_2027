@@ -1,0 +1,16 @@
+.SSSS820501 :1 ;Slide Switches DP3T VERT GND 1.5mm
+SSSS820501
+*STM S
+*NGS
+*PLB 1="NO_1" 2="NC_1" 3="COM_1" 4="NO_2" 5="NO_3" 6="NC_2" 7="COM_2" 8="NO_4" 9="9" 10="10" 11="11" 12="12"
+*MXP 14
+*DFN SSSS820501
+~!Mouser Part Number (688-SSSS820501)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ALPS/SSSS820501?qs=N5Jky1br14OXv4vkkV%252B%252B4A%3D%3D)
+~!Manufacturer_Name (ALPS Electric)
+~!Manufacturer_Part_Number (SSSS820501)
+~!Link Datasheet (https://www.alps.com/prod/info/E/HTML/Switch/Slide/SSSS8/SSSS820501.html)
+~!Height (1.6mm)
+~!3D_Model (SSSS820501)
+SSSS820501
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 

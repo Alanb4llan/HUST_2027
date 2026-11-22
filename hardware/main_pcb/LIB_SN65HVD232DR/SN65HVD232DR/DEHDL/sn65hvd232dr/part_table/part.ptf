@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SN65HVD232DR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "SN65HVD232DR" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "595-SN65HVD232DR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN65HVD232DR?qs=QViXGNcIEAtY%252BrViRMr46w%3D%3D", "3.3 V CAN Transceiver", "http://www.ti.com/lit/gpn/sn65hvd232", "1.75 mm"
+END_PART
+
+END.

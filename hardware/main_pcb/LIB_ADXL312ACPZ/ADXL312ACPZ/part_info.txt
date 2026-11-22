@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=ADXL312ACPZ
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=33
+Version=1.1
+Released=2022-01-18 14:18:40
+Downloaded=2026-04-13 19:42:20
+3D=Y

@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=SN65HVD232DR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=2.3
+Released=2018-12-07 10:31:03
+Downloaded=2026-04-27 10:10:03
+3D=Y

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADXL312ACPZ'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "ADXL312ACPZ" (!) = "", "QFN50P500X500X155-33N-D", "Quad Flat No-Lead", "584-ADXL312ACPZ", "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADXL312ACPZ?qs=WIvQP4zGanh2mViyx1IC4g%3D%3D", "Analog Devices ADXL312ACPZ 3-Axis Accelerometer IC, 2  3.6 V 32-Pin LFCSP LQ", "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL312.pdf", "1.55 mm"
+END_PART
+
+END.

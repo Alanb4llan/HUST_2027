@@ -1,0 +1,16 @@
+.LTC6820IMS_3ZZPBF :1 ;Isolated Communications Interface Interface 16-MSOP
+SOP50P490X110-16N
+*STM IC
+*NGS
+*PLB 1="EN" 2="MOSI" 3="MISO" 4="SCK" 5="'CS'" 6="VDDS" 7="POL" 8="PHA" 9="VDD" 10="IM" 11="IP" 12="MSTR" 13="SLOW" 14="GND" 15="ICMP" 16="IBIAS"
+*MXP 16
+*DFN LTC6820IMS_3ZZPBF
+~!Mouser Part Number (584-6820IMS#3ZZPB)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/LTC6820IMS3ZZPBF?qs=byeeYqUIh0N8RiK1UGlHvA%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (LTC6820IMS#3ZZPBF)
+~!Link Datasheet (http://www.linear.com/docs/42317)
+~!Height (1.1mm)
+~!3D_Model (LTC6820IMS#3ZZPBF)
+LTC6820IMS_3ZZPBF
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 

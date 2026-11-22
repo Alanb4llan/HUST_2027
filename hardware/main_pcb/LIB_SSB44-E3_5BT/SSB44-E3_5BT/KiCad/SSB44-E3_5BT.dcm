@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SSB44-E3_5BT
+D Rectifier Diode Schottky 40V 4A 2-Pin SMB T/R
+K
+F http://www.vishay.com/docs/88884/ssb43l.pdf
+$ENDCMP
+#
+#End Doc Library

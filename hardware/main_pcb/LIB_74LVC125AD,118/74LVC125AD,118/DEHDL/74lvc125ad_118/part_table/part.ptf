@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '74LVC125AD_118'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Nexperia", "74LVC125AD,118" (!) = "", "74LVC125AD118", "Other", "771-74LVC125AD-T", "https://www.mouser.co.uk/ProductDetail/Nexperia/74LVC125AD118?qs=me8TqzrmIYXjiwMtzMYzqA%3D%3D", "74LVC125A - Quad buffer/line driver with 5 V tolerant input/outputs; 3-state@en-us", "https://assets.nexperia.com/documents/data-sheet/74LVC125A.pdf", "1.75 mm"
+END_PART
+
+END.

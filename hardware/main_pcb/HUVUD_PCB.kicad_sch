@@ -1,0 +1,140 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "02373e21-581c-45fa-a1da-57e9c6ce8a5f")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 107.95 78.74)
+		(size 69.85 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "36059182-cc4a-46ca-9a14-67cd983c5907")
+		(property "Sheetname" "Outputs"
+			(at 107.95 78.0284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "InputsOutputs.kicad_sch"
+			(at 107.95 130.1246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "HUVUD_PCB"
+				(path "/02373e21-581c-45fa-a1da-57e9c6ce8a5f"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 189.23 78.74)
+		(size 71.12 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "55ec5502-810f-42b3-b024-4df692d046db")
+		(property "Sheetname" "Peripheral"
+			(at 189.23 78.0284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Peripheral.kicad_sch"
+			(at 189.23 130.1246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "HUVUD_PCB"
+				(path "/02373e21-581c-45fa-a1da-57e9c6ce8a5f"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 78.74)
+		(size 71.12 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "acafdf69-12c8-4670-b8a2-ddaf7b4b8c7f")
+		(property "Sheetname" "MCU"
+			(at 25.4 78.0284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 25.4 130.1246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "HUVUD_PCB"
+				(path "/02373e21-581c-45fa-a1da-57e9c6ce8a5f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

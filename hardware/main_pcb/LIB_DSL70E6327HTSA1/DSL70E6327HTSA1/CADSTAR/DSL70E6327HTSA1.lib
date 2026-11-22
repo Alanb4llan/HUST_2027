@@ -1,0 +1,16 @@
+.DSL70E6327HTSA1 :1 ;ESD Suppressors / TVS Diodes ESD/EMI PROTECTION WIRELINE 15kV 50V
+DSL70E6327HTSA1
+*STM D
+*NGS
+*PLB 1="I/O_1" 2="I/O_2" 3="I/O_3" 4="I/O_4"
+*MXP 4
+*DFN DSL70E6327HTSA1
+~!Mouser Part Number (726-DSL70E6327HTSA1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/DSL70E6327HTSA1?qs=K00xGehIljvhVLVgAZqOZg%3D%3D)
+~!Manufacturer_Name (Infineon)
+~!Manufacturer_Part_Number (DSL70E6327HTSA1)
+~!Link Datasheet (https://www.infineon.com/dgdl/Infineon-DSL70-DS-v01_01-en.pdf?fileId=db3a30431441fb5d0114927e397f1007)
+~!Height (1.1mm)
+~!3D_Model (DSL70E6327HTSA1)
+DSL70E6327HTSA1
+1.1!U 2.1!U 3.1!U 4.1!U 

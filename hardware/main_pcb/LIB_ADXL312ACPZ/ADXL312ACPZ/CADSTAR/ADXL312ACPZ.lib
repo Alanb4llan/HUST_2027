@@ -1,0 +1,16 @@
+.ADXL312ACPZ :1 ;Analog Devices ADXL312ACPZ 3-Axis Accelerometer IC, 2  3.6 V 32-Pin LFCSP LQ
+QFN50P500X500X155-33N-D
+*STM IC
+*NGS
+*PLB 1="GND_1" 2="RESERVED_1" 3="GND_2" 4="GND_3" 5="VS" 6="'CS'" 7="RESERVED_2" 8="NC_1" 9="NC_2" 10="NC_3" 11="NC_4" 12="NC_5" 13="NC_6" 14="NC_7" 15="NC_8" 16="NC_9" 17="NC_10" 18="NC_11" 19="NC_12" 20="INT1" 21="INT2" 22="RESERVED_3" 23="SPO/ALT ADDRESS" 24="SDA/SDI/SDIO" 25="NC_13" 26="SCL/SCLK" 27="NC_14" 28="NC_15" 29="NC_16" 30="NC_17" 31="VDD I/O" 32="NC_18" 33="EP"
+*MXP 33
+*DFN ADXL312ACPZ
+~!Mouser Part Number (584-ADXL312ACPZ)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADXL312ACPZ?qs=WIvQP4zGanh2mViyx1IC4g%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (ADXL312ACPZ)
+~!Link Datasheet (https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL312.pdf)
+~!Height (1.55mm)
+~!3D_Model (ADXL312ACPZ)
+ADXL312ACPZ
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 33.1!U 32.1!U 31.1!U 30.1!U 29.1!U 28.1!U 27.1!U 26.1!U 25.1!U 

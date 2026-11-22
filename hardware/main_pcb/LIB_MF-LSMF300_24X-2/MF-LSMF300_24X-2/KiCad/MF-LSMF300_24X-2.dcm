@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MF-LSMF300_24X-2
+D PTC - (2920)SURFACE MNT Bourns 3A Surface Mount Resettable Fuse, 24 V
+K
+F https://www.bourns.com/docs/Product-Datasheets/mflsmf.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SSB44_E3_5BT'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "SSB44-E3/5BT" (!) = "", "DIOM5436X244N", "Diodes Moulded", "625-SSB44-E3/5BT", "https://www.mouser.co.uk/ProductDetail/Vishay-General-Semiconductor/SSB44-E3-5BT?qs=x2jpVgRnAtPlxEbHZNqb7g%3D%3D", "Rectifier Diode Schottky 40V 4A 2-Pin SMB T/R", "http://www.vishay.com/docs/88884/ssb43l.pdf", "2.44 mm"
+END_PART
+
+END.

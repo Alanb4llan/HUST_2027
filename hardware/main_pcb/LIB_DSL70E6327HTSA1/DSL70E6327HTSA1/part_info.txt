@@ -1,0 +1,9 @@
+Manufacturer=Infineon
+PartNumber=DSL70E6327HTSA1
+PartCategory=TVS Diode (Uni-directional)
+PackageCategory=Other
+PinCount=4
+Version=1.4
+Released=2022-06-08 13:02:21
+Downloaded=2026-04-27 10:16:36
+3D=Y

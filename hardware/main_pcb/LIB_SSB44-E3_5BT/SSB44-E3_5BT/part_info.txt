@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=SSB44-E3/5BT
+PartCategory=Schottky Diode
+PackageCategory=Diodes Moulded
+PinCount=2
+Version=1.1
+Released=2021-09-01 07:42:04
+Downloaded=2026-04-27 10:03:03
+3D=Y

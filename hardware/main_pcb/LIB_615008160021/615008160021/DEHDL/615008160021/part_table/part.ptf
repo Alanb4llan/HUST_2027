@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '615008160021'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Wurth Elektronik", "615008160021" (!) = "", "615008160021", "Other", "710-615008160021", "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/615008160021?qs=OlC7AqGiEDnv55QyQjNbug%3D%3D", "WR-MJ_8P8C_THT_Horizontal ModularJacks_8P8C_THT_Horizontal_Plastic_Tab Up_ Cat6", "https://www.we-online.com/catalog/datasheet/615008160021.pdf", "14.63 mm"
+END_PART
+
+END.

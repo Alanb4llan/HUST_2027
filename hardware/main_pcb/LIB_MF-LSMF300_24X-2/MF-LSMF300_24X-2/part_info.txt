@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=MF-LSMF300/24X-2
+PartCategory=Fuse
+PackageCategory=Fuses Chip
+PinCount=2
+Version=1.1
+Released=2018-04-18 09:46:29
+Downloaded=2026-04-27 10:20:27
+3D=Y

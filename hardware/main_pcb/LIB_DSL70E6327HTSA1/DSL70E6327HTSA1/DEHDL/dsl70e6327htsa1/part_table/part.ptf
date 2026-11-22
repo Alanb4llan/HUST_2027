@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DSL70E6327HTSA1'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Infineon", "DSL70E6327HTSA1" (!) = "", "DSL70E6327HTSA1", "Other", "726-DSL70E6327HTSA1", "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/DSL70E6327HTSA1?qs=K00xGehIljvhVLVgAZqOZg%3D%3D", "ESD Suppressors / TVS Diodes ESD/EMI PROTECTION WIRELINE 15kV 50V", "https://www.infineon.com/dgdl/Infineon-DSL70-DS-v01_01-en.pdf?fileId=db3a30431441fb5d0114927e397f1007", "1.1 mm"
+END_PART
+
+END.

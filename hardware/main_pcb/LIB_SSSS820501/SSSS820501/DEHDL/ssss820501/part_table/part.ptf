@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SSSS820501'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ALPS Electric", "SSSS820501" (!) = "", "SSSS820501", "Other", "688-SSSS820501", "https://www.mouser.co.uk/ProductDetail/ALPS/SSSS820501?qs=N5Jky1br14OXv4vkkV%252B%252B4A%3D%3D", "Slide Switches DP3T VERT GND 1.5mm", "https://www.alps.com/prod/info/E/HTML/Switch/Slide/SSSS8/SSSS820501.html", "1.6 mm"
+END_PART
+
+END.

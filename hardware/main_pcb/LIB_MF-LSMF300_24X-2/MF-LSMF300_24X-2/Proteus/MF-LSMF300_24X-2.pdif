@@ -1,0 +1,95 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "MF-LSMF300_24X-2"
+   (description "PTC - (2920)SURFACE MNT Bourns 3A Surface Mount Resettable Fuse, 24 V")
+   (family "FUS")
+   (package "FUSC7451X160N")
+   (attribute "Datasheet Link" "https://www.bourns.com/docs/Product-Datasheets/mflsmf.pdf")
+   (attribute "Geometry.Height" "1.6mm")
+   (attribute "Mouser Part Number" "652-MF-LSMF300/24X-2")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/MF-LSMF300-24X-2?qs=LaERWbmZ8SQFElU5s8JsYg%3D%3D")
+   (attribute "Manufacturer_Name" "Bourns")
+   (attribute "Manufacturer_Part_Number" "MF-LSMF300/24X-2")
+   (gate
+    (symbol "MF-LSMF300_24X-2")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "MF-LSMF300_24X-2"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 50) (pt 500 50) (pt 500 -50) (pt 200 -50) (pt 200 50) (closed))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 200 0) (pt 500 0))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 700 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "FUSC7451X160N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -4.595 2.975)
+      (pt 4.595 2.975)
+      (pt 4.595 -2.975)
+      (pt -4.595 -2.975)
+      (pt -4.595 2.975))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.678 2.56)
+      (pt 3.678 2.56)
+      (pt 3.678 -2.56)
+      (pt -3.678 -2.56)
+      (pt -3.678 2.56))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 0 2.46)
+      (pt 0 -2.46))))
+   (leg 1 (pt -3.705 0) (padstack 0))
+   (leg 2 (pt 3.705 0) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.28 5.45 0 0 90))
+   )
+   (model "MF-LSMF300_24X-2.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

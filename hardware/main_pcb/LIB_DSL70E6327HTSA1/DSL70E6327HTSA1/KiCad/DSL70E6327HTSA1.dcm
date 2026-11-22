@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DSL70E6327HTSA1
+D ESD Suppressors / TVS Diodes ESD/EMI PROTECTION WIRELINE 15kV 50V
+K
+F https://www.infineon.com/dgdl/Infineon-DSL70-DS-v01_01-en.pdf?fileId=db3a30431441fb5d0114927e397f1007
+$ENDCMP
+#
+#End Doc Library

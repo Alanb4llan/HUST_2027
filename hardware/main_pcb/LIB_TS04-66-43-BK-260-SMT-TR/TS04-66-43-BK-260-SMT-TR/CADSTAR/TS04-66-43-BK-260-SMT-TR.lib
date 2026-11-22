@@ -1,0 +1,16 @@
+.TS04-66-43-BK-260-SMT-TR :1 ;TS04-66-43-BK-260-SMT-TR - 6 x 6 mm, 4.3 mm Actuator Height Off PCB, 260 gf, Black, Surface Mount, SPST, Tactile Switch
+TS046643BK160SMTTR
+*STM S
+*NGS
+*PLB 1="NO_1" 2="COM_1" 3="NO_2" 4="COM_2"
+*MXP 4
+*DFN TS04-66-43-BK-260-SMT-TR
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (Same Sky)
+~!Manufacturer_Part_Number (TS04-66-43-BK-260-SMT-TR)
+~!Link Datasheet (https://www.sameskydevices.com/product/resource/TS04-66-43-BK-260-SMT-TR.pdf)
+~!Height (4.5mm)
+~!3D_Model (TS04-66-43-BK-260-SMT-TR)
+TS04-66-43-BK-260-SMT-TR
+1.1!U 2.1!U 3.1!U 4.1!U 

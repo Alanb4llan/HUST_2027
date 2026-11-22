@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADXL312ACPZ
+D Analog Devices ADXL312ACPZ 3-Axis Accelerometer IC, 2  3.6 V 32-Pin LFCSP LQ
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL312.pdf
+$ENDCMP
+#
+#End Doc Library

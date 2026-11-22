@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DMN3023L-7
+D MOSFET N-Ch Enh Mode FET 30Vdss 20Vgss 51A
+K
+F https://www.diodes.com//assets/Datasheets/DMN3023L.pdf
+$ENDCMP
+#
+#End Doc Library

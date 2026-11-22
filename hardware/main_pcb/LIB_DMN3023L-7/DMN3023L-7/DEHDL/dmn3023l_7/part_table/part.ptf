@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DMN3023L_7'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Diodes Incorporated", "DMN3023L-7" (!) = "", "SOT96P240X110-3N", "SOT23 (3-Pin)", "621-DMN3023L-7", "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMN3023L-7?qs=MNIFWdyJgbpS4HSLyrAo5g%3D%3D", "MOSFET N-Ch Enh Mode FET 30Vdss 20Vgss 51A", "https://www.diodes.com//assets/Datasheets/DMN3023L.pdf", "1.1 mm"
+END_PART
+
+END.

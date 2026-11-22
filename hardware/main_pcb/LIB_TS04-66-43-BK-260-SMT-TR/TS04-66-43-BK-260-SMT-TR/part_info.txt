@@ -1,0 +1,9 @@
+Manufacturer=Same Sky
+PartNumber=TS04-66-43-BK-260-SMT-TR
+PartCategory=Switch (4-Pin Push)
+PackageCategory=Other
+PinCount=4
+Version=2.1
+Released=2026-04-21 08:39:04
+Downloaded=2026-05-12 16:48:49
+3D=Y

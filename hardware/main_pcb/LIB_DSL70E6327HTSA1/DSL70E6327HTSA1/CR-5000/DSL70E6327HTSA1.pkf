@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "DSL70E6327HTSA1"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "DSL70E6327HTSA1")
+        (spec "default")
+    )
+)
