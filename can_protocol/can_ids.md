@@ -14,37 +14,67 @@
 - **GUESS** = inferred, or taken from external spec knowledge rather than the repo. Verify before relying on it.
 - **unknown** = no information in the repo.
 
-## Summary
+## 2027 car: STM32 main board (one MCU for the whole car)
 
-| ID | Dec | Name | Sender → Receiver(s) | Period | Decoded/encoded in |
+Source: `firmware/HUST27/`. The 2027 code reuses the 2025 IDs, so it **assumes the same motor controller, BMS and MPPTs as 2025**. Confirm that.
+
+| ID | Dec | Name | Direction | Period | Status in current `firmware/HUST27` |
 |---|---|---|---|---|---|
-| 0x175 | 373 | Main status to steering wheel | Old main → old steering wheel | ~1 s (see notes) | Old main TX (`sendCAN2steeringWheel`), steering RX (`CanReadAll`) |
-| 0x176 | 374 | Lights / brake request | Old steering wheel → old main | 100 ms | Steering TX (`sendESPCAN`), old main RX. New HUST27: TX code commented out |
-| 0x177 | 375 | MPPT IV-sweep command (per user) | unknown → MPPTs | unknown | **Not in repo** |
-| 0x200 | 512 | MPPT 1 data | MPPT 1 → main, steering | unknown | Old main, steering, HUST27 |
-| 0x210 | 528 | MPPT 2 data | MPPT 2 → main, steering | unknown | Old main, steering, HUST27 |
-| 0x220 | 544 | MPPT 3 data | MPPT 3 → main, steering | unknown | Old main, steering, HUST27 |
-| 0x230 | 560 | MPPT 4 data | MPPT 4 → main, steering | unknown | Old main, steering. **Not** HUST27 |
-| 0x401 | 1025 | MC status | Motor controller → steering, HUST27 | unknown | Steering, HUST27 (old main ignores it) |
-| 0x402 | 1026 | MC bus measurement | MC → all | unknown | Old main, steering, HUST27 |
-| 0x403 | 1027 | MC velocity | MC → all | unknown | Old main, steering, HUST27 |
-| 0x40B | 1035 | MC temperatures | MC → all | unknown | Old main, steering, HUST27 |
-| 0x40E | 1038 | MC odometer & bus Ah | MC → all | unknown | Old main, steering, HUST27 |
-| 0x501 | 1281 | Motor drive command | Old steering wheel → MC (old main also listens) | 100 ms | Steering TX (`sendDriveCAN`), old main RX. New HUST27: TX code commented out |
-| 0x601 | 1537 | BMS temperatures | BMS → all | unknown | Old main, steering, HUST27 |
-| 0x602 | 1538 | BMS pack data | BMS → all | unknown | Old main, steering, HUST27 |
-| 0x603 | 1539 | BMS average cell voltage | BMS → all | unknown | Old main, steering, HUST27 |
-| 0x605 | 1541 | BMS error flags | BMS → steering, HUST27 | unknown | Steering, HUST27 (old main ignores it) |
+| 0x501 | 1281 | Motor drive command | **Main board → MC** | 100 ms (planned) | `sendDriveCAN()` declared, body commented out. Must be re-enabled |
+| 0x401 | 1025 | MC status | MC → main board | unknown | Decoded (`MCerror`) |
+| 0x402 | 1026 | MC bus measurement | MC → main board | unknown | Decoded (current only) |
+| 0x403 | 1027 | MC velocity | MC → main board | unknown | Decoded (km/h) |
+| 0x40B | 1035 | MC temperatures | MC → main board | unknown | Decoded |
+| 0x40E | 1038 | MC odometer & bus Ah | MC → main board | unknown | Decoded (distance only) |
+| 0x601 | 1537 | BMS temperatures | BMS → main board | unknown | Decoded |
+| 0x602 | 1538 | BMS pack data | BMS → main board | unknown | Decoded |
+| 0x603 | 1539 | BMS average cell voltage | BMS → main board | unknown | Decoded |
+| 0x605 | 1541 | BMS error flags | BMS → main board | unknown | Decoded (`BMSerror`) |
+| 0x200 | 512 | MPPT 1 data | MPPT 1 → main board | unknown | Decoded (output power) |
+| 0x210 | 528 | MPPT 2 data | MPPT 2 → main board | unknown | Decoded (output power) |
+| 0x220 | 544 | MPPT 3 data | MPPT 3 → main board | unknown | Decoded (output power) |
+| 0x230 | 560 | MPPT 4 data | MPPT 4 → main board | unknown | Passes the filter but **not decoded** |
+| 0x177 | 375 | MPPT IV-sweep command | unknown | unknown | **Not in code.** Payload unknown |
+
+Not used in 2027: 0x175 and 0x176. Those were the link between the two 2025 ESP32s, and lamps, brake and safe state are now read locally. See also the [filters](#filters-in-hust27ino-2027) section.
+
+## 2025 car: old ESP32 main board + ESP32 steering wheel
+
+Sources: `old_code_esp32/Main_Ratt_Belgien26/Mainkod/` ("old main") and `.../SteeringWheel/SteeringWheelCode20-09-26/` ("steering").
+
+| ID | Dec | Name | Sender → Receiver(s) | Period | Encoded / decoded in |
+|---|---|---|---|---|---|
+| 0x175 | 373 | Main status to steering wheel | Old main → steering | ~1 s (see notes) | Old main TX (`sendCAN2steeringWheel`), steering RX (`CanReadAll`) |
+| 0x176 | 374 | Lights / brake request | Steering → old main | 100 ms | Steering TX (`sendESPCAN`), old main RX |
+| 0x501 | 1281 | Motor drive command | **Steering → MC** (old main also listens) | 100 ms | Steering TX (`sendDriveCAN`), old main RX (logging) |
+| 0x401 | 1025 | MC status | MC → steering | unknown | Steering only (old main ignores it) |
+| 0x402 | 1026 | MC bus measurement | MC → old main, steering | unknown | Both |
+| 0x403 | 1027 | MC velocity | MC → old main, steering | unknown | Both (the old main keeps m/s, steering converts to km/h) |
+| 0x40B | 1035 | MC temperatures | MC → old main, steering | unknown | Both |
+| 0x40E | 1038 | MC odometer & bus Ah | MC → old main, steering | unknown | Both |
+| 0x601 | 1537 | BMS temperatures | BMS → old main, steering | unknown | Both |
+| 0x602 | 1538 | BMS pack data | BMS → old main, steering | unknown | Both |
+| 0x603 | 1539 | BMS average cell voltage | BMS → old main, steering | unknown | Both |
+| 0x605 | 1541 | BMS error flags | BMS → steering | unknown | Steering only (old main ignores it) |
+| 0x200 | 512 | MPPT 1 data | MPPT 1 → old main, steering | unknown | Both |
+| 0x210 | 528 | MPPT 2 data | MPPT 2 → old main, steering | unknown | Both |
+| 0x220 | 544 | MPPT 3 data | MPPT 3 → old main, steering | unknown | Both |
+| 0x230 | 560 | MPPT 4 data | MPPT 4 → old main, steering | unknown | Both |
+| 0x177 | 375 | MPPT IV-sweep command | unknown → MPPTs | unknown | **Not in the code.** Reported by the team as used on the old car |
+
+## Devices (both cars)
 
 The motor controller is a **Tritium WaveSculptor** according to the comment in `CANfunc.cpp` ("TRITON/WAVESCULPT"). The 0x400 base address and the 0x500 driver-control base match WaveSculptor defaults. **GUESS**: the model is not confirmed anywhere in the repo.
 The BMS is "Orion BMS style" (comment in `CANfunc.cpp`). Orion messages are user-configured, so the layouts below describe **what our code decodes**, not a fixed spec.
 The MPPTs are "DILITHIUM/CUSTOM" (comment in `CANfunc.cpp`). The model is unknown.
 
+The byte layouts below are shared by both cars, because the devices (and their IDs) are the same. Notes say where the 2025 and 2027 code decode things differently.
+
 ---
 
-## Steering wheel ↔ main board (team-defined, **obsolete in 2027**)
+## 2025 only: steering wheel ↔ main board (team-defined, not used in 2027)
 
-> 2027 has **one MCU** (the STM32L476RG on the main board), and the steering wheel has no MCU. So 0x175 and 0x176 are only documented here for reading the old code. The new firmware reads lamps, brake and safe state locally and **sends 0x501 itself**.
+> These two messages linked the two ESP32s in the 2025 car. In 2027 there is **one MCU** and the steering wheel has no MCU, so they're documented only for reading the old code.
 
 ### 0x175: main board status → steering wheel
 Encoded in old main `sendCAN2steeringWheel(digitalRead(READ_BRAKE_LIGHT), safeState)`. Decoded in steering `CanReadAll` (`CAN_ID_ESP_RX`).
@@ -74,10 +104,7 @@ Encoded in steering `sendESPCAN` (`CAN_ID_ESP_TX`). Decoded in old main `assignC
 - The steering wheel encodes bytes 0–2 with `if / else if / else if`, so **only one** of left, right and hazard is ever 1. Left wins over right, and right wins over hazard. That means the hazard bit is dropped whenever an indicator flag is also set. The inputs logic normally clears them, so in practice this is fine.
 - Byte 3 is effectively **always 0** in the old code: brake pedal mapping is disabled (`mapFloat(..., 0, 0)` in `Inputs.cpp`, with the comment "BRAKE TURNT OFF").
 - **Old-main bug**: `case 0x176` has no `break`, so it falls through into `case 0x501` and overwrites `driver_current` / `driverRPM` with the lamp bytes reinterpreted as floats.
-- The commented-out HUST27 version writes left/right/hazard independently (no else-if) and sets byte 3 from `Brake != 0`.
-
-### 0x177: MPPT IV-sweep command
-Reported by the user as used on the old car. **Not found anywhere in the repo** (old or new code). Sender, period and payload are **unknown**.
+- The commented-out HUST27 version writes left/right/hazard independently (no else-if) and sets byte 3 from `Brake != 0`. It isn't needed in 2027.
 
 ---
 
@@ -208,9 +235,12 @@ The MPPT index is `(ID − 0x200) / 0x10` (steering `CanHandler.cpp`).
 - The old main zeroes every MPPT power value if no MPPT frame arrives for 5 s. Neither the steering wheel nor HUST27 has a timeout.
 - The other IDs in 0x201–0x23F (passed by the HUST27 filter) are **unknown**. GUESS: per-MPPT status or limit frames.
 
+### 0x177: MPPT IV-sweep command
+Reported by the team as used on the 2025 car. **Not found anywhere in the repo** (old or new code). Sender, period and payload are **unknown**.
+
 ---
 
-## Filters in HUST27.ino
+## Filters in HUST27.ino (2027)
 
 | Bank | ID | Mask | Passes | Missing for a full system |
 |---|---|---|---|---|
