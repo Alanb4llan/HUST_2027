@@ -1,0 +1,2017 @@
+(export
+	(version "E")
+	(design
+		(source "C:\\Users\\alanh\\Desktop\\HUST27\\hardware\\drl\\DRL_HUST_1.kicad_sch")
+		(date "2026-11-22T12:46:08")
+		(tool "Eeschema 10.0.3")
+		(sheet
+			(number "1")
+			(name "/")
+			(tstamps "/")
+			(title_block
+				(title)
+				(company)
+				(rev)
+				(date)
+				(source "DRL_HUST_1.kicad_sch")
+				(comment
+					(number "1")
+					(value "")
+				)
+				(comment
+					(number "2")
+					(value "")
+				)
+				(comment
+					(number "3")
+					(value "")
+				)
+				(comment
+					(number "4")
+					(value "")
+				)
+				(comment
+					(number "5")
+					(value "")
+				)
+				(comment
+					(number "6")
+					(value "")
+				)
+				(comment
+					(number "7")
+					(value "")
+				)
+				(comment
+					(number "8")
+					(value "")
+				)
+				(comment
+					(number "9")
+					(value "")
+				)
+			)
+		)
+	)
+	(components
+		(comp
+			(ref "D1")
+			(value "3030_158303250A")
+			(footprint "LED_SMD_Wurth:D_Wurth_WL-SWTP-3030")
+			(datasheet "https://www.we-online.com/catalog/datasheet/158303250A.pdf?ki")
+			(description "White Top view PLCC")
+			(fields
+				(field
+					(name "Manufacturer") "Wurth Elektronik")
+				(field
+					(name "Manufacturer URL") "https://www.we-online.com")
+				(field
+					(name "Created Date") "20260323")
+				(field
+					(name "Series") "WL-SWTP")
+				(field
+					(name "Part Number") "158303250A")
+				(field
+					(name "Size") "3030")
+				(field
+					(name "Mounting Technology") "SMT")
+				(field
+					(name "Emitting Color") "Daylight")
+				(field
+					(name "CCT typ.(K)") "–")
+				(field
+					(name "CRI typ.") "85")
+				(field
+					(name "ΦV typ.(lm)") "36 lm")
+				(field
+					(name "VF typ.(V)") "2.8 V")
+				(field
+					(name "Chip Technology") "AlInGaN")
+				(field
+					(name "2θ50% typ.(°)") "120 °")
+				(field
+					(name "Footprint") "LED_SMD_Wurth:D_Wurth_WL-SWTP-3030")
+				(field
+					(name "Datasheet") "https://www.we-online.com/catalog/datasheet/158303250A.pdf?ki")
+				(field
+					(name "Description") "White Top view PLCC")
+			)
+			(libsource
+				(lib "LED_Wurth_WL-SWTP")
+				(part "3030_158303250A")
+				(description "White Top view PLCC")
+			)
+			(property
+				(name "Manufacturer")
+				(value "Wurth Elektronik")
+			)
+			(property
+				(name "Manufacturer URL")
+				(value "https://www.we-online.com")
+			)
+			(property
+				(name "Created Date")
+				(value "20260323")
+			)
+			(property
+				(name "Series")
+				(value "WL-SWTP")
+			)
+			(property
+				(name "Part Number")
+				(value "158303250A")
+			)
+			(property
+				(name "Size")
+				(value "3030")
+			)
+			(property
+				(name "Mounting Technology")
+				(value "SMT")
+			)
+			(property
+				(name "Emitting Color")
+				(value "Daylight")
+			)
+			(property
+				(name "CCT typ.(K)")
+				(value "–")
+			)
+			(property
+				(name "CRI typ.")
+				(value "85")
+			)
+			(property
+				(name "ΦV typ.(lm)")
+				(value "36 lm")
+			)
+			(property
+				(name "VF typ.(V)")
+				(value "2.8 V")
+			)
+			(property
+				(name "Chip Technology")
+				(value "AlInGaN")
+			)
+			(property
+				(name "2θ50% typ.(°)")
+				(value "120 °")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "DRL_HUST_1.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "SMT")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "*WL-SWTP*3030*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "141d4d63-33ab-40f6-8dbb-435162cb7f51")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D2")
+			(value "3030_158303250A")
+			(footprint "LED_SMD_Wurth:D_Wurth_WL-SWTP-3030")
+			(datasheet "https://www.we-online.com/catalog/datasheet/158303250A.pdf?ki")
+			(description "White Top view PLCC")
+			(fields
+				(field
+					(name "Manufacturer") "Wurth Elektronik")
+				(field
+					(name "Manufacturer URL") "https://www.we-online.com")
+				(field
+					(name "Created Date") "20260323")
+				(field
+					(name "Series") "WL-SWTP")
+				(field
+					(name "Part Number") "158303250A")
+				(field
+					(name "Size") "3030")
+				(field
+					(name "Mounting Technology") "SMT")
+				(field
+					(name "Emitting Color") "Daylight")
+				(field
+					(name "CCT typ.(K)") "–")
+				(field
+					(name "CRI typ.") "85")
+				(field
+					(name "ΦV typ.(lm)") "36 lm")
+				(field
+					(name "VF typ.(V)") "2.8 V")
+				(field
+					(name "Chip Technology") "AlInGaN")
+				(field
+					(name "2θ50% typ.(°)") "120 °")
+				(field
+					(name "Footprint") "LED_SMD_Wurth:D_Wurth_WL-SWTP-3030")
+				(field
+					(name "Datasheet") "https://www.we-online.com/catalog/datasheet/158303250A.pdf?ki")
+				(field
+					(name "Description") "White Top view PLCC")
+			)
+			(libsource
+				(lib "LED_Wurth_WL-SWTP")
+				(part "3030_158303250A")
+				(description "White Top view PLCC")
+			)
+			(property
+				(name "Manufacturer")
+				(value "Wurth Elektronik")
+			)
+			(property
+				(name "Manufacturer URL")
+				(value "https://www.we-online.com")
+			)
+			(property
+				(name "Created Date")
+				(value "20260323")
+			)
+			(property
+				(name "Series")
+				(value "WL-SWTP")
+			)
+			(property
+				(name "Part Number")
+				(value "158303250A")
+			)
+			(property
+				(name "Size")
+				(value "3030")
+			)
+			(property
+				(name "Mounting Technology")
+				(value "SMT")
+			)
+			(property
+				(name "Emitting Color")
+				(value "Daylight")
+			)
+			(property
+				(name "CCT typ.(K)")
+				(value "–")
+			)
+			(property
+				(name "CRI typ.")
+				(value "85")
+			)
+			(property
+				(name "ΦV typ.(lm)")
+				(value "36 lm")
+			)
+			(property
+				(name "VF typ.(V)")
+				(value "2.8 V")
+			)
+			(property
+				(name "Chip Technology")
+				(value "AlInGaN")
+			)
+			(property
+				(name "2θ50% typ.(°)")
+				(value "120 °")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "DRL_HUST_1.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "SMT")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "*WL-SWTP*3030*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "15a8ace1-b239-4e0e-9fd0-840693f6ea37")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D3")
+			(value "3030_158303250A")
+			(footprint "LED_SMD_Wurth:D_Wurth_WL-SWTP-3030")
+			(datasheet "https://www.we-online.com/catalog/datasheet/158303250A.pdf?ki")
+			(description "White Top view PLCC")
+			(fields
+				(field
+					(name "Manufacturer") "Wurth Elektronik")
+				(field
+					(name "Manufacturer URL") "https://www.we-online.com")
+				(field
+					(name "Created Date") "20260323")
+				(field
+					(name "Series") "WL-SWTP")
+				(field
+					(name "Part Number") "158303250A")
+				(field
+					(name "Size") "3030")
+				(field
+					(name "Mounting Technology") "SMT")
+				(field
+					(name "Emitting Color") "Daylight")
+				(field
+					(name "CCT typ.(K)") "–")
+				(field
+					(name "CRI typ.") "85")
+				(field
+					(name "ΦV typ.(lm)") "36 lm")
+				(field
+					(name "VF typ.(V)") "2.8 V")
+				(field
+					(name "Chip Technology") "AlInGaN")
+				(field
+					(name "2θ50% typ.(°)") "120 °")
+				(field
+					(name "Footprint") "LED_SMD_Wurth:D_Wurth_WL-SWTP-3030")
+				(field
+					(name "Datasheet") "https://www.we-online.com/catalog/datasheet/158303250A.pdf?ki")
+				(field
+					(name "Description") "White Top view PLCC")
+			)
+			(libsource
+				(lib "LED_Wurth_WL-SWTP")
+				(part "3030_158303250A")
+				(description "White Top view PLCC")
+			)
+			(property
+				(name "Manufacturer")
+				(value "Wurth Elektronik")
+			)
+			(property
+				(name "Manufacturer URL")
+				(value "https://www.we-online.com")
+			)
+			(property
+				(name "Created Date")
+				(value "20260323")
+			)
+			(property
+				(name "Series")
+				(value "WL-SWTP")
+			)
+			(property
+				(name "Part Number")
+				(value "158303250A")
+			)
+			(property
+				(name "Size")
+				(value "3030")
+			)
+			(property
+				(name "Mounting Technology")
+				(value "SMT")
+			)
+			(property
+				(name "Emitting Color")
+				(value "Daylight")
+			)
+			(property
+				(name "CCT typ.(K)")
+				(value "–")
+			)
+			(property
+				(name "CRI typ.")
+				(value "85")
+			)
+			(property
+				(name "ΦV typ.(lm)")
+				(value "36 lm")
+			)
+			(property
+				(name "VF typ.(V)")
+				(value "2.8 V")
+			)
+			(property
+				(name "Chip Technology")
+				(value "AlInGaN")
+			)
+			(property
+				(name "2θ50% typ.(°)")
+				(value "120 °")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "DRL_HUST_1.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "SMT")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "*WL-SWTP*3030*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "31254aa9-e118-41ae-8d05-ea750f02e4cb")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D4")
+			(value "3030_158303250A")
+			(footprint "LED_SMD_Wurth:D_Wurth_WL-SWTP-3030")
+			(datasheet "https://www.we-online.com/catalog/datasheet/158303250A.pdf?ki")
+			(description "White Top view PLCC")
+			(fields
+				(field
+					(name "Manufacturer") "Wurth Elektronik")
+				(field
+					(name "Manufacturer URL") "https://www.we-online.com")
+				(field
+					(name "Created Date") "20260323")
+				(field
+					(name "Series") "WL-SWTP")
+				(field
+					(name "Part Number") "158303250A")
+				(field
+					(name "Size") "3030")
+				(field
+					(name "Mounting Technology") "SMT")
+				(field
+					(name "Emitting Color") "Daylight")
+				(field
+					(name "CCT typ.(K)") "–")
+				(field
+					(name "CRI typ.") "85")
+				(field
+					(name "ΦV typ.(lm)") "36 lm")
+				(field
+					(name "VF typ.(V)") "2.8 V")
+				(field
+					(name "Chip Technology") "AlInGaN")
+				(field
+					(name "2θ50% typ.(°)") "120 °")
+				(field
+					(name "Footprint") "LED_SMD_Wurth:D_Wurth_WL-SWTP-3030")
+				(field
+					(name "Datasheet") "https://www.we-online.com/catalog/datasheet/158303250A.pdf?ki")
+				(field
+					(name "Description") "White Top view PLCC")
+			)
+			(libsource
+				(lib "LED_Wurth_WL-SWTP")
+				(part "3030_158303250A")
+				(description "White Top view PLCC")
+			)
+			(property
+				(name "Manufacturer")
+				(value "Wurth Elektronik")
+			)
+			(property
+				(name "Manufacturer URL")
+				(value "https://www.we-online.com")
+			)
+			(property
+				(name "Created Date")
+				(value "20260323")
+			)
+			(property
+				(name "Series")
+				(value "WL-SWTP")
+			)
+			(property
+				(name "Part Number")
+				(value "158303250A")
+			)
+			(property
+				(name "Size")
+				(value "3030")
+			)
+			(property
+				(name "Mounting Technology")
+				(value "SMT")
+			)
+			(property
+				(name "Emitting Color")
+				(value "Daylight")
+			)
+			(property
+				(name "CCT typ.(K)")
+				(value "–")
+			)
+			(property
+				(name "CRI typ.")
+				(value "85")
+			)
+			(property
+				(name "ΦV typ.(lm)")
+				(value "36 lm")
+			)
+			(property
+				(name "VF typ.(V)")
+				(value "2.8 V")
+			)
+			(property
+				(name "Chip Technology")
+				(value "AlInGaN")
+			)
+			(property
+				(name "2θ50% typ.(°)")
+				(value "120 °")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "DRL_HUST_1.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "SMT")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "*WL-SWTP*3030*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "5b7f1dd8-f31d-4114-964e-0fe1dd41643b")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D5")
+			(value "3030_158303250A")
+			(footprint "LED_SMD_Wurth:D_Wurth_WL-SWTP-3030")
+			(datasheet "https://www.we-online.com/catalog/datasheet/158303250A.pdf?ki")
+			(description "White Top view PLCC")
+			(fields
+				(field
+					(name "Manufacturer") "Wurth Elektronik")
+				(field
+					(name "Manufacturer URL") "https://www.we-online.com")
+				(field
+					(name "Created Date") "20260323")
+				(field
+					(name "Series") "WL-SWTP")
+				(field
+					(name "Part Number") "158303250A")
+				(field
+					(name "Size") "3030")
+				(field
+					(name "Mounting Technology") "SMT")
+				(field
+					(name "Emitting Color") "Daylight")
+				(field
+					(name "CCT typ.(K)") "–")
+				(field
+					(name "CRI typ.") "85")
+				(field
+					(name "ΦV typ.(lm)") "36 lm")
+				(field
+					(name "VF typ.(V)") "2.8 V")
+				(field
+					(name "Chip Technology") "AlInGaN")
+				(field
+					(name "2θ50% typ.(°)") "120 °")
+				(field
+					(name "Footprint") "LED_SMD_Wurth:D_Wurth_WL-SWTP-3030")
+				(field
+					(name "Datasheet") "https://www.we-online.com/catalog/datasheet/158303250A.pdf?ki")
+				(field
+					(name "Description") "White Top view PLCC")
+			)
+			(libsource
+				(lib "LED_Wurth_WL-SWTP")
+				(part "3030_158303250A")
+				(description "White Top view PLCC")
+			)
+			(property
+				(name "Manufacturer")
+				(value "Wurth Elektronik")
+			)
+			(property
+				(name "Manufacturer URL")
+				(value "https://www.we-online.com")
+			)
+			(property
+				(name "Created Date")
+				(value "20260323")
+			)
+			(property
+				(name "Series")
+				(value "WL-SWTP")
+			)
+			(property
+				(name "Part Number")
+				(value "158303250A")
+			)
+			(property
+				(name "Size")
+				(value "3030")
+			)
+			(property
+				(name "Mounting Technology")
+				(value "SMT")
+			)
+			(property
+				(name "Emitting Color")
+				(value "Daylight")
+			)
+			(property
+				(name "CCT typ.(K)")
+				(value "–")
+			)
+			(property
+				(name "CRI typ.")
+				(value "85")
+			)
+			(property
+				(name "ΦV typ.(lm)")
+				(value "36 lm")
+			)
+			(property
+				(name "VF typ.(V)")
+				(value "2.8 V")
+			)
+			(property
+				(name "Chip Technology")
+				(value "AlInGaN")
+			)
+			(property
+				(name "2θ50% typ.(°)")
+				(value "120 °")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "DRL_HUST_1.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "SMT")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "*WL-SWTP*3030*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "bebcf4e1-d222-48e2-b649-c034d551f5f1")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D6")
+			(value "3030_158303250A")
+			(footprint "LED_SMD_Wurth:D_Wurth_WL-SWTP-3030")
+			(datasheet "https://www.we-online.com/catalog/datasheet/158303250A.pdf?ki")
+			(description "White Top view PLCC")
+			(fields
+				(field
+					(name "Manufacturer") "Wurth Elektronik")
+				(field
+					(name "Manufacturer URL") "https://www.we-online.com")
+				(field
+					(name "Created Date") "20260323")
+				(field
+					(name "Series") "WL-SWTP")
+				(field
+					(name "Part Number") "158303250A")
+				(field
+					(name "Size") "3030")
+				(field
+					(name "Mounting Technology") "SMT")
+				(field
+					(name "Emitting Color") "Daylight")
+				(field
+					(name "CCT typ.(K)") "–")
+				(field
+					(name "CRI typ.") "85")
+				(field
+					(name "ΦV typ.(lm)") "36 lm")
+				(field
+					(name "VF typ.(V)") "2.8 V")
+				(field
+					(name "Chip Technology") "AlInGaN")
+				(field
+					(name "2θ50% typ.(°)") "120 °")
+				(field
+					(name "Footprint") "LED_SMD_Wurth:D_Wurth_WL-SWTP-3030")
+				(field
+					(name "Datasheet") "https://www.we-online.com/catalog/datasheet/158303250A.pdf?ki")
+				(field
+					(name "Description") "White Top view PLCC")
+			)
+			(libsource
+				(lib "LED_Wurth_WL-SWTP")
+				(part "3030_158303250A")
+				(description "White Top view PLCC")
+			)
+			(property
+				(name "Manufacturer")
+				(value "Wurth Elektronik")
+			)
+			(property
+				(name "Manufacturer URL")
+				(value "https://www.we-online.com")
+			)
+			(property
+				(name "Created Date")
+				(value "20260323")
+			)
+			(property
+				(name "Series")
+				(value "WL-SWTP")
+			)
+			(property
+				(name "Part Number")
+				(value "158303250A")
+			)
+			(property
+				(name "Size")
+				(value "3030")
+			)
+			(property
+				(name "Mounting Technology")
+				(value "SMT")
+			)
+			(property
+				(name "Emitting Color")
+				(value "Daylight")
+			)
+			(property
+				(name "CCT typ.(K)")
+				(value "–")
+			)
+			(property
+				(name "CRI typ.")
+				(value "85")
+			)
+			(property
+				(name "ΦV typ.(lm)")
+				(value "36 lm")
+			)
+			(property
+				(name "VF typ.(V)")
+				(value "2.8 V")
+			)
+			(property
+				(name "Chip Technology")
+				(value "AlInGaN")
+			)
+			(property
+				(name "2θ50% typ.(°)")
+				(value "120 °")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "DRL_HUST_1.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "SMT")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "*WL-SWTP*3030*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "b95cd2bd-9c73-4cb0-b243-307a59bb1afd")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D7")
+			(value "3030_158303250A")
+			(footprint "LED_SMD_Wurth:D_Wurth_WL-SWTP-3030")
+			(datasheet "https://www.we-online.com/catalog/datasheet/158303250A.pdf?ki")
+			(description "White Top view PLCC")
+			(fields
+				(field
+					(name "Manufacturer") "Wurth Elektronik")
+				(field
+					(name "Manufacturer URL") "https://www.we-online.com")
+				(field
+					(name "Created Date") "20260323")
+				(field
+					(name "Series") "WL-SWTP")
+				(field
+					(name "Part Number") "158303250A")
+				(field
+					(name "Size") "3030")
+				(field
+					(name "Mounting Technology") "SMT")
+				(field
+					(name "Emitting Color") "Daylight")
+				(field
+					(name "CCT typ.(K)") "–")
+				(field
+					(name "CRI typ.") "85")
+				(field
+					(name "ΦV typ.(lm)") "36 lm")
+				(field
+					(name "VF typ.(V)") "2.8 V")
+				(field
+					(name "Chip Technology") "AlInGaN")
+				(field
+					(name "2θ50% typ.(°)") "120 °")
+				(field
+					(name "Footprint") "LED_SMD_Wurth:D_Wurth_WL-SWTP-3030")
+				(field
+					(name "Datasheet") "https://www.we-online.com/catalog/datasheet/158303250A.pdf?ki")
+				(field
+					(name "Description") "White Top view PLCC")
+			)
+			(libsource
+				(lib "LED_Wurth_WL-SWTP")
+				(part "3030_158303250A")
+				(description "White Top view PLCC")
+			)
+			(property
+				(name "Manufacturer")
+				(value "Wurth Elektronik")
+			)
+			(property
+				(name "Manufacturer URL")
+				(value "https://www.we-online.com")
+			)
+			(property
+				(name "Created Date")
+				(value "20260323")
+			)
+			(property
+				(name "Series")
+				(value "WL-SWTP")
+			)
+			(property
+				(name "Part Number")
+				(value "158303250A")
+			)
+			(property
+				(name "Size")
+				(value "3030")
+			)
+			(property
+				(name "Mounting Technology")
+				(value "SMT")
+			)
+			(property
+				(name "Emitting Color")
+				(value "Daylight")
+			)
+			(property
+				(name "CCT typ.(K)")
+				(value "–")
+			)
+			(property
+				(name "CRI typ.")
+				(value "85")
+			)
+			(property
+				(name "ΦV typ.(lm)")
+				(value "36 lm")
+			)
+			(property
+				(name "VF typ.(V)")
+				(value "2.8 V")
+			)
+			(property
+				(name "Chip Technology")
+				(value "AlInGaN")
+			)
+			(property
+				(name "2θ50% typ.(°)")
+				(value "120 °")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "DRL_HUST_1.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "SMT")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "*WL-SWTP*3030*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "27611c3f-323a-4e3a-9b84-93f5703d2e1d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D8")
+			(value "3030_158303250A")
+			(footprint "LED_SMD_Wurth:D_Wurth_WL-SWTP-3030")
+			(datasheet "https://www.we-online.com/catalog/datasheet/158303250A.pdf?ki")
+			(description "White Top view PLCC")
+			(fields
+				(field
+					(name "Manufacturer") "Wurth Elektronik")
+				(field
+					(name "Manufacturer URL") "https://www.we-online.com")
+				(field
+					(name "Created Date") "20260323")
+				(field
+					(name "Series") "WL-SWTP")
+				(field
+					(name "Part Number") "158303250A")
+				(field
+					(name "Size") "3030")
+				(field
+					(name "Mounting Technology") "SMT")
+				(field
+					(name "Emitting Color") "Daylight")
+				(field
+					(name "CCT typ.(K)") "–")
+				(field
+					(name "CRI typ.") "85")
+				(field
+					(name "ΦV typ.(lm)") "36 lm")
+				(field
+					(name "VF typ.(V)") "2.8 V")
+				(field
+					(name "Chip Technology") "AlInGaN")
+				(field
+					(name "2θ50% typ.(°)") "120 °")
+				(field
+					(name "Footprint") "LED_SMD_Wurth:D_Wurth_WL-SWTP-3030")
+				(field
+					(name "Datasheet") "https://www.we-online.com/catalog/datasheet/158303250A.pdf?ki")
+				(field
+					(name "Description") "White Top view PLCC")
+			)
+			(libsource
+				(lib "LED_Wurth_WL-SWTP")
+				(part "3030_158303250A")
+				(description "White Top view PLCC")
+			)
+			(property
+				(name "Manufacturer")
+				(value "Wurth Elektronik")
+			)
+			(property
+				(name "Manufacturer URL")
+				(value "https://www.we-online.com")
+			)
+			(property
+				(name "Created Date")
+				(value "20260323")
+			)
+			(property
+				(name "Series")
+				(value "WL-SWTP")
+			)
+			(property
+				(name "Part Number")
+				(value "158303250A")
+			)
+			(property
+				(name "Size")
+				(value "3030")
+			)
+			(property
+				(name "Mounting Technology")
+				(value "SMT")
+			)
+			(property
+				(name "Emitting Color")
+				(value "Daylight")
+			)
+			(property
+				(name "CCT typ.(K)")
+				(value "–")
+			)
+			(property
+				(name "CRI typ.")
+				(value "85")
+			)
+			(property
+				(name "ΦV typ.(lm)")
+				(value "36 lm")
+			)
+			(property
+				(name "VF typ.(V)")
+				(value "2.8 V")
+			)
+			(property
+				(name "Chip Technology")
+				(value "AlInGaN")
+			)
+			(property
+				(name "2θ50% typ.(°)")
+				(value "120 °")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "DRL_HUST_1.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "SMT")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "*WL-SWTP*3030*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "d66b67c9-89b4-4509-8d53-9df554d31521")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D9")
+			(value "3030_158303250A")
+			(footprint "LED_SMD_Wurth:D_Wurth_WL-SWTP-3030")
+			(datasheet "https://www.we-online.com/catalog/datasheet/158303250A.pdf?ki")
+			(description "White Top view PLCC")
+			(fields
+				(field
+					(name "Manufacturer") "Wurth Elektronik")
+				(field
+					(name "Manufacturer URL") "https://www.we-online.com")
+				(field
+					(name "Created Date") "20260323")
+				(field
+					(name "Series") "WL-SWTP")
+				(field
+					(name "Part Number") "158303250A")
+				(field
+					(name "Size") "3030")
+				(field
+					(name "Mounting Technology") "SMT")
+				(field
+					(name "Emitting Color") "Daylight")
+				(field
+					(name "CCT typ.(K)") "–")
+				(field
+					(name "CRI typ.") "85")
+				(field
+					(name "ΦV typ.(lm)") "36 lm")
+				(field
+					(name "VF typ.(V)") "2.8 V")
+				(field
+					(name "Chip Technology") "AlInGaN")
+				(field
+					(name "2θ50% typ.(°)") "120 °")
+				(field
+					(name "Footprint") "LED_SMD_Wurth:D_Wurth_WL-SWTP-3030")
+				(field
+					(name "Datasheet") "https://www.we-online.com/catalog/datasheet/158303250A.pdf?ki")
+				(field
+					(name "Description") "White Top view PLCC")
+			)
+			(libsource
+				(lib "LED_Wurth_WL-SWTP")
+				(part "3030_158303250A")
+				(description "White Top view PLCC")
+			)
+			(property
+				(name "Manufacturer")
+				(value "Wurth Elektronik")
+			)
+			(property
+				(name "Manufacturer URL")
+				(value "https://www.we-online.com")
+			)
+			(property
+				(name "Created Date")
+				(value "20260323")
+			)
+			(property
+				(name "Series")
+				(value "WL-SWTP")
+			)
+			(property
+				(name "Part Number")
+				(value "158303250A")
+			)
+			(property
+				(name "Size")
+				(value "3030")
+			)
+			(property
+				(name "Mounting Technology")
+				(value "SMT")
+			)
+			(property
+				(name "Emitting Color")
+				(value "Daylight")
+			)
+			(property
+				(name "CCT typ.(K)")
+				(value "–")
+			)
+			(property
+				(name "CRI typ.")
+				(value "85")
+			)
+			(property
+				(name "ΦV typ.(lm)")
+				(value "36 lm")
+			)
+			(property
+				(name "VF typ.(V)")
+				(value "2.8 V")
+			)
+			(property
+				(name "Chip Technology")
+				(value "AlInGaN")
+			)
+			(property
+				(name "2θ50% typ.(°)")
+				(value "120 °")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "DRL_HUST_1.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "SMT")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "*WL-SWTP*3030*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "cee1423a-2662-4c88-8209-12e487f30dfa")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J1")
+			(value "691409320002")
+			(footprint "Connector_THT_Wurth:J_Wurth_WR-TBL_691409320002")
+			(datasheet "https://www.we-online.com/catalog/datasheet/691409320002.pdf?ki")
+			(description "Series 4093 - Screwless Push In 3.81mm pitch - 45° cable entry - THT")
+			(fields
+				(field
+					(name "Manufacturer") "Wurth Elektronik")
+				(field
+					(name "Manufacturer URL") "https://www.we-online.com")
+				(field
+					(name "Created Date") "20260401")
+				(field
+					(name "Series") "WR-TBL")
+				(field
+					(name "Part Number") "691409320002")
+				(field
+					(name "Mounting Technology") "THT")
+				(field
+					(name "Automotive") "No")
+				(field
+					(name "IR (A)") "10")
+				(field
+					(name "Pins (pcs)") "2")
+				(field
+					(name "Pitch (mm)") "3.81")
+				(field
+					(name "Type") "45°")
+				(field
+					(name "Application") "Screwless Push In")
+				(field
+					(name "PCB/Cable/Panel") "PCB")
+				(field
+					(name "Modularity") "Yes")
+				(field
+					(name "Wire Section") "26 to 16 (AWG) 0.2 to 1.5 (mm²)")
+				(field
+					(name "Critical Parameter") "10A 2pins 3.81mm")
+				(field
+					(name "Footprint") "Connector_THT_Wurth:J_Wurth_WR-TBL_691409320002")
+				(field
+					(name "Datasheet") "https://www.we-online.com/catalog/datasheet/691409320002.pdf?ki")
+				(field
+					(name "Description") "Series 4093 - Screwless Push In 3.81mm pitch - 45° cable entry - THT")
+			)
+			(libsource
+				(lib "Connector_Wurth_WR-TBL")
+				(part "691409320002")
+				(description "Series 4093 - Screwless Push In 3.81mm pitch - 45° cable entry - THT")
+			)
+			(property
+				(name "Manufacturer")
+				(value "Wurth Elektronik")
+			)
+			(property
+				(name "Manufacturer URL")
+				(value "https://www.we-online.com")
+			)
+			(property
+				(name "Created Date")
+				(value "20260401")
+			)
+			(property
+				(name "Series")
+				(value "WR-TBL")
+			)
+			(property
+				(name "Part Number")
+				(value "691409320002")
+			)
+			(property
+				(name "Mounting Technology")
+				(value "THT")
+			)
+			(property
+				(name "Automotive")
+				(value "No")
+			)
+			(property
+				(name "IR (A)")
+				(value "10")
+			)
+			(property
+				(name "Pins (pcs)")
+				(value "2")
+			)
+			(property
+				(name "Pitch (mm)")
+				(value "3.81")
+			)
+			(property
+				(name "Type")
+				(value "45°")
+			)
+			(property
+				(name "Application")
+				(value "Screwless Push In")
+			)
+			(property
+				(name "PCB/Cable/Panel")
+				(value "PCB")
+			)
+			(property
+				(name "Modularity")
+				(value "Yes")
+			)
+			(property
+				(name "Wire Section")
+				(value "26 to 16 (AWG) 0.2 to 1.5 (mm²)")
+			)
+			(property
+				(name "Critical Parameter")
+				(value "10A 2pins 3.81mm")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "DRL_HUST_1.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "THT")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "*WR-TBL*691409320002*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "0f0e9207-b77a-420a-b2d9-c0e9015f111e")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "M1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "M2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R1")
+			(value "R")
+			(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "DRL_HUST_1.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "c724c660-31e8-40e3-b99f-c72780cc5ed0")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R2")
+			(value "R")
+			(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "DRL_HUST_1.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "4db9fc88-dd82-4362-a862-12213d6e46a8")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R3")
+			(value "R")
+			(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "DRL_HUST_1.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "ce9c70d2-d75b-47ec-8e9c-d166612fc83b")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+	)
+	(groups)
+	(variants)
+	(libparts
+		(libpart
+			(lib "Connector_Wurth_WR-TBL")
+			(part "691409320002")
+			(description "Series 4093 - Screwless Push In 3.81mm pitch - 45° cable entry - THT")
+			(docs "https://www.we-online.com/catalog/datasheet/691409320002.pdf?ki")
+			(footprints
+				(fp "*WR-TBL*691409320002*")
+			)
+			(fields
+				(field
+					(name "Reference") "J")
+				(field
+					(name "Value") "691409320002")
+				(field
+					(name "Footprint") "Connector_THT_Wurth:J_Wurth_WR-TBL_691409320002")
+				(field
+					(name "Datasheet") "https://www.we-online.com/catalog/datasheet/691409320002.pdf?ki")
+				(field
+					(name "Description") "Series 4093 - Screwless Push In 3.81mm pitch - 45° cable entry - THT")
+				(field
+					(name "Manufacturer") "Wurth Elektronik")
+				(field
+					(name "Manufacturer URL") "https://www.we-online.com")
+				(field
+					(name "Created Date") "20260401")
+				(field
+					(name "Series") "WR-TBL")
+				(field
+					(name "Part Number") "691409320002")
+				(field
+					(name "Mounting Technology") "THT")
+				(field
+					(name "Automotive") "No")
+				(field
+					(name "IR (A)") "10")
+				(field
+					(name "Pins (pcs)") "2")
+				(field
+					(name "Pitch (mm)") "3.81")
+				(field
+					(name "Type") "45°")
+				(field
+					(name "Application") "Screwless Push In")
+				(field
+					(name "PCB/Cable/Panel") "PCB")
+				(field
+					(name "Modularity") "Yes")
+				(field
+					(name "Wire Section") "26 to 16 (AWG) 0.2 to 1.5 (mm²)")
+				(field
+					(name "Critical Parameter") "10A 2pins 3.81mm")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "2")
+					(type "passive")
+				)
+				(pin
+					(num "M1")
+					(name "M1")
+					(type "passive")
+				)
+				(pin
+					(num "M2")
+					(name "M2")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Device")
+			(part "R")
+			(description "Resistor")
+			(footprints
+				(fp "R_*")
+			)
+			(fields
+				(field
+					(name "Reference") "R")
+				(field
+					(name "Value") "R")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "LED_Wurth_WL-SWTP")
+			(part "3030_158303250A")
+			(description "White Top view PLCC")
+			(docs "https://www.we-online.com/catalog/datasheet/158303250A.pdf?ki")
+			(footprints
+				(fp "*WL-SWTP*3030*")
+			)
+			(fields
+				(field
+					(name "Reference") "D")
+				(field
+					(name "Value") "3030_158303250A")
+				(field
+					(name "Footprint") "LED_SMD_Wurth:D_Wurth_WL-SWTP-3030")
+				(field
+					(name "Datasheet") "https://www.we-online.com/catalog/datasheet/158303250A.pdf?ki")
+				(field
+					(name "Description") "White Top view PLCC")
+				(field
+					(name "Manufacturer") "Wurth Elektronik")
+				(field
+					(name "Manufacturer URL") "https://www.we-online.com")
+				(field
+					(name "Created Date") "20260323")
+				(field
+					(name "Series") "WL-SWTP")
+				(field
+					(name "Part Number") "158303250A")
+				(field
+					(name "Size") "3030")
+				(field
+					(name "Mounting Technology") "SMT")
+				(field
+					(name "Emitting Color") "Daylight")
+				(field
+					(name "CCT typ.(K)") "–")
+				(field
+					(name "CRI typ.") "85")
+				(field
+					(name "ΦV typ.(lm)") "36 lm")
+				(field
+					(name "VF typ.(V)") "2.8 V")
+				(field
+					(name "Chip Technology") "AlInGaN")
+				(field
+					(name "2θ50% typ.(°)") "120 °")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "-")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "+")
+					(type "passive")
+				)
+			)
+		)
+	)
+	(libraries
+		(library
+			(logical "Device")
+			(uri "${KICAD10_SYMBOL_DIR}/Device.kicad_sym")
+		)
+	)
+	(nets
+		(net
+			(code "1")
+			(name "GND")
+			(class "Default")
+			(node
+				(ref "D7")
+				(pin "1")
+				(pinfunction "-_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D8")
+				(pin "1")
+				(pinfunction "-_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D9")
+				(pin "1")
+				(pinfunction "-_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "J1")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "J1")
+				(pin "M2")
+				(pinfunction "M2_M2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "2")
+			(name "Net-(D1-+)")
+			(class "Default")
+			(node
+				(ref "D1")
+				(pin "2")
+				(pinfunction "+_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R1")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "3")
+			(name "Net-(D1--)")
+			(class "Default")
+			(node
+				(ref "D1")
+				(pin "1")
+				(pinfunction "-_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D4")
+				(pin "2")
+				(pinfunction "+_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "4")
+			(name "Net-(D2-+)")
+			(class "Default")
+			(node
+				(ref "D2")
+				(pin "2")
+				(pinfunction "+_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R2")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "5")
+			(name "Net-(D2--)")
+			(class "Default")
+			(node
+				(ref "D2")
+				(pin "1")
+				(pinfunction "-_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D5")
+				(pin "2")
+				(pinfunction "+_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "6")
+			(name "Net-(D3-+)")
+			(class "Default")
+			(node
+				(ref "D3")
+				(pin "2")
+				(pinfunction "+_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R3")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "7")
+			(name "Net-(D3--)")
+			(class "Default")
+			(node
+				(ref "D3")
+				(pin "1")
+				(pinfunction "-_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D6")
+				(pin "2")
+				(pinfunction "+_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "8")
+			(name "Net-(D4--)")
+			(class "Default")
+			(node
+				(ref "D4")
+				(pin "1")
+				(pinfunction "-_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D7")
+				(pin "2")
+				(pinfunction "+_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "9")
+			(name "Net-(D5--)")
+			(class "Default")
+			(node
+				(ref "D5")
+				(pin "1")
+				(pinfunction "-_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D8")
+				(pin "2")
+				(pinfunction "+_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "10")
+			(name "Net-(D6--)")
+			(class "Default")
+			(node
+				(ref "D6")
+				(pin "1")
+				(pinfunction "-_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D9")
+				(pin "2")
+				(pinfunction "+_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "11")
+			(name "Net-(J1-Pad1)")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "J1")
+				(pin "M1")
+				(pinfunction "M1_M1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R1")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R2")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R3")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+	)
+)

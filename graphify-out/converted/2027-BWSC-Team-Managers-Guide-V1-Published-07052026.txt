@@ -1,0 +1,1337 @@
+# regulations\2027-BWSC-Team-Managers-Guide-V1-Published-07052026.pdf (text extracted with pypdf, 41 pages)
+
+--- page 1 ---
+2027 
+team manager’s 
+guide
+
+
+--- page 2 ---
+ 
+2 
+OFFICIAL 
+Document Control 
+The purpose of the manual is to provide information about the important logistical challenges of attending the 
+Bridgestone World Solar Challenge. It may be updated by the issue of further editions . 
+Release version 1.0 Published 7 May 2026. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Copyright statement 
+The Government of South Australia supports and encourages the dissemination and exchange of public sector 
+information and endorses the use of Creative Commons Licenses by its agencies. With the exception of the 
+Piping Shrike emblem, images, and other material or devices protected by a trademark and subject to review by 
+the Government of South Australia at all times, the cont ent of this document is licensed under the Creative 
+Commons Australia Attribution 4.0 Licence. All other rights are reserved. Where specific licence terms (such as 
+Creative Commons) are applied to this document, those licence terms shall prevail over any inconsistent 
+provisions in this statement. The Government of South Australia has undertaken reasonable enquiries to identify 
+material owned by third parties and secure permission for its reproduction. Permission may need to be obtained 
+from third parties to reuse their material. When using content from this document that is licensed under a 
+Creative Commons Licence you are required to attribute the work in the manner specified in the licence (but not 
+in any way that suggests that the Government of South Australia endorses you or your use of the work) and the 
+Government of South Australia requires that you use the following form of attribution. The Government of South 
+Australia, >>title of works<>insert date the content was sourced<>insert URL<  
+IMPORTANT This printed version may not contain all updates and bulletins. For the latest information please 
+refer to the Event website - www.worldsolarchallenge.org  
+ 
+
+--- page 3 ---
+ 
+3 
+OFFICIAL 
+Contents 
+Welcome .......................................................................................................................................... 6 
+General Information ........................................................................................................................ 7 
+Your Team, Our Team and How We Communicate ....................................................................... 7 
+Structure of your team ................................................................................................................... 7 
+Freight Without Tears ..................................................................................................................... 9 
+Customs ........................................................................................................................................ 9 
+Quarantine .................................................................................................................................... 9 
+Deliveries .................................................................................................................................... 10 
+Road Vehicle Imports .................................................................................................................. 10 
+Getting to Australia ....................................................................................................................... 12 
+You, your team, and your supporters ........................................................................................... 12 
+Visas ........................................................................................................................................... 12 
+Invitations and letters in support of visa applications ...................................................................  12 
+Arrival in Australia ........................................................................................................................ 13 
+Mobile (Cell) Phones ................................................................................................................... 13 
+Wi-Fi/Mobile Broadband .............................................................................................................. 13 
+Car Hire (Vehicle Rental) ............................................................................................................. 13 
+Driving in Australia ....................................................................................................................... 15 
+Fatigue ........................................................................................................................................ 15 
+Speed .......................................................................................................................................... 16 
+Seatbelts ..................................................................................................................................... 16 
+Driving Whilst Under the Influence of Alcohol .............................................................................. 16 
+Four-Wheel Drive Vehicles .......................................................................................................... 16 
+Single Vehicle Rollovers .............................................................................................................. 16 
+Vehicle Roadworthiness .............................................................................................................. 17 
+Driving with Road Trains ............................................................................................................. 17 
+Convoys ...................................................................................................................................... 17 
+Pedestrians .................................................................................................................................  17 
+Wildlife ........................................................................................................................................ 17 
+Photographs ................................................................................................................................ 18 
+Dust ............................................................................................................................................. 18 
+Railway Crossings ....................................................................................................................... 18 
+Driving at Night ............................................................................................................................ 18 
+Aboriginal Land ........................................................................................................................... 19 
+Prohibited Areas .......................................................................................................................... 19 
+
+--- page 4 ---
+ 
+4 
+OFFICIAL 
+Remote Area Travelling (Outback): General Tips ....................................................................... 20 
+Team Preparation Facilities.......................................................................................................... 21 
+Conditions of Occupancy ............................................................................................................. 21 
+Track Testing .............................................................................................................................. 22 
+Road Testing the Competition Vehicle in Australia ...................................................................... 23 
+Health and Wellbeing .................................................................................................................... 24 
+Garbage ...................................................................................................................................... 25 
+Health Notes from the Chief Paramedic....................................................................................... 25 
+Insurance ....................................................................................................................................... 26 
+Personal Travel Insurance ........................................................................................................... 26 
+Compulsory Third Party ............................................................................................................... 26 
+Comprehensive Insurance ........................................................................................................... 26 
+Compulsory Activities .................................................................................................................. 27 
+Team Manager & Safety Officer’s Briefing (Mandatory) ............................................................... 27 
+Team and Team Member Registration ........................................................................................ 27 
+Qualifying .................................................................................................................................... 27 
+Static Scrutineering ..................................................................................................................... 27 
+Dynamic Scrutineering – Procedural Briefing .............................................................................. 28 
+Media Call ................................................................................................................................... 28 
+Pre-event Briefing ........................................................................................................................ 28 
+Official Start Line ......................................................................................................................... 28 
+Official Finish Line ....................................................................................................................... 29 
+Static Scrutineering Process........................................................................................................ 29 
+Dynamic Scrutineering Process ................................................................................................... 29 
+Vehicle Registration Plate ........................................................................................................... 30 
+On the Road–Darwin to Adelaide .................................................................................................  31 
+About the Route .......................................................................................................................... 31 
+Accommodation ........................................................................................................................... 31 
+Overnight Stops ........................................................................................................................... 31 
+Cruiser Class Recharging ............................................................................................................ 32 
+Personal Equipment .................................................................................................................... 32 
+Water .......................................................................................................................................... 32 
+Fire .............................................................................................................................................. 32 
+Fire Ban Information .................................................................................................................... 32 
+Provisions .................................................................................................................................... 33 
+Fuel ............................................................................................................................................. 34 
+Control Stops .............................................................................................................................. 34 
+
+--- page 5 ---
+ 
+5 
+OFFICIAL 
+Keeping up with open Control Stops ............................................................................................  34 
+On Road Behaviour and Safety ................................................................................................... 35 
+Tracking ...................................................................................................................................... 35 
+Radio Communications (See Regulation 3.8) .............................................................................. 35 
+Satellite Phones (See Regulation 3.8.2) ...................................................................................... 36 
+Remotely Piloted Aircraft (Drones) .............................................................................................. 36 
+Adelaide and the Event Finish ..................................................................................................... 38 
+Official Finish (See Regulation 4.4) ............................................................................................. 38 
+Staging Point ............................................................................................................................... 38 
+Public Engagement/ Promotional Activities .................................................................................. 38 
+Street Parade .............................................................................................................................. 38 
+Awards Ceremony ....................................................................................................................... 39 
+Pack Down – Victoria Park .......................................................................................................... 39 
+Rubbish/Unwanted Items ............................................................................................................ 39 
+Appendix ....................................................................................................................................... 40 
+Event Schedule ........................................................................................................................... 40 
+Event Locations ........................................................................................................................... 40 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+--- page 6 ---
+ 
+6 
+OFFICIAL 
+Welcome  
+Thank you for your registration. As Team Manager you are now enrolled in an exclusive club where 
+the BWSC community is  assured of our attention to the inevitable questions that will crop up during 
+the preparation phase of the event.  We expect you to share this information with your wider team, 
+however, it is important that you respect the communication protocol that the Team Manager is always 
+the point of contact with the organisation.  (further details can be found on page 7). 
+Even if you are a veteran attendee, I hope you will study this document as there are always changes 
+that make each edition of the event unique. 
+Some changes are forced upon us by circumstances, infrastructure, or legislation. Others are born of 
+opportunities too good to miss, while yet others are planned to keep the event relevant, fresh and the 
+demanding competition you have come to expect. 
+As I often say, you are about to undertake not only a great adventure, but also a technical and logistical 
+challenge of epic proportions —3,000 blistering kilometres, crossing one of the most remote and 
+sparsely inhabited continents on Earth! 
+We look forward to welcoming you to our country and your involvement in this great event. Be assured 
+that together our organizing team will do all we can to make your participation in the Bridgestone 
+World Solar Challenge a life changing experience you will always remember. 
+This document has been prepared to assist you, and your team members, with the essential 
+preparations required to take on one of the last great adventures the civilized world has to offer. We 
+have arranged, to present information relevant to your journey. 
+The event office, and our volunteers, will always do what they can to help participating teams in any 
+way they can. It is, however, your responsibility to ensure that you address every detail appropriate to 
+your circumstances and have all the equipment you need to complete the Challenge. On that basis 
+we commend to you our participant liaison team as the source of fresh, relevant, and reliable 
+information, as experience shows that acting on information from unofficial sources can lead 
+you into a whole world of pain. 
+This manual has been compiled in good faith from information gathered from many sources. Each 
+team’s circumstances differ, so please treat it as a general guide only and make the normal 
+commercial enquiries before committing to critical or contractual obligations. 
+We look forward to welcoming you to Australia in August 2027! 
+ 
+Chris Selwood AM 
+Event Ambassador 
+ 
+ 
+
+--- page 7 ---
+ 
+7 
+OFFICIAL 
+General Information 
+Your Team, Our Team and How We Communicate 
+Regulation 1.6.2 requires you to nominate a Team Manager. The Team Manager is responsible for 
+the actions of their team members and represents the team at meetings. 
+Your team may use a different title internally, but as the Team Manager has certain obligations you 
+must identify who this person is. By default,  this will be the main contact person between your team 
+and the event organiser . However, if you nominate a different person as a lead contact, the Team 
+Manager must be copied on all conversations. 
+Our Participant Liaison Officer is the point of contact between the event organiser and the team. 
+The event organiser’s team are here to help. The event organiser’s office is in Adelaide and maintains 
+office hours in Australian Central Time. The telephone number is +61 8 8429 2500.  
+Please only use the dedicated email teams@worldsolarchallenge.org to contact the event organiser. 
+An Event Headquarters in Darwin will be established (location to be advised) from Saturday 7 August 
+2027. Event staff will be pleased to assist you with whatever help and local advice you may need. 
+Further contact details will be provided via a team notice or update to this document closer to the 
+event.  
+For all important dates, places and deadlines , refer to the schedule published as Regulation 1.12, 
+noting a detailed event schedule will be published closer to the event.  
+If you are visiting Adelaide,  we would love to meet you. Most members of our team work on other 
+events, so please arrange your visit to us in advance. 
+Structure of your team 
+The basic structure of your team is an obligation of Regulation 1.19. 
+In addition to the Team Manager, you must have a Safety Officer to ensure the t eam identifies, 
+mitigates, and manages the risks of participation. 
+The Safety Officer must ensure that a safety plan is developed, documented and appropriate to the 
+individual circumstances of the t eam, and that the t eam complies with the s afety requirements of  
+Australian law and the Event. 
+You will also need a Battery Officer to be responsible for liaison with event officials and emergency 
+services in the event of a battery incident. The Battery Officer  should have a thorough knowledge of 
+the battery system and the risks and remedies involved, have control of all the appropriate safety 
+measures and have access to the appropriate equipment (including that required for containment and 
+disposal of hazardous waste). In conjunction with the Safety Officer, the Battery Officer must ensure 
+hardcopies of Material Safety Data Sheets (MSDS) for the relevant battery technologies utilised are 
+available in English and, for non-English speaking teams, also in the native language of the team.  
+
+--- page 8 ---
+ 
+8 
+OFFICIAL 
+Note that the civilian driving licences of competition vehicle drivers will be inspected and verified by 
+the Australian Road Transport Authorities as part of the scrutineering process (see Regulation 1.19.6) 
+so make sure your drivers bring their drivers’ licence! 
+Don’t forget Support Vehicle drivers —each of your support vehicles must have a minimum of two 
+people (who are not competition vehicle drivers) available to drive the vehicle. Remember that fatigue 
+is a serious factor in your team risk assessment and must be actively managed. 
+Finally, participation of persons under the age of 18 (as of Friday 6 August 2027) is not encouraged. 
+Further information regarding this is available in Regulation 1.19.7 
+ 
+Experience shows that some team positions demand an attention to detail that 
+is difficult to achieve when an individual takes on too much. Duties may look 
+easy until something goes wrong. 
+If you are the Team Manager, you CANNOT be the Safety Officer or the 
+Battery Officer.  
+These three areas of responsibility require a person dedicated to each. 
+ 
+ 
+  
+
+--- page 9 ---
+ 
+9 
+OFFICIAL 
+Freight Without Tears 
+How to ship your competition vehicle and all your gear: 
+RTFM! 
+(Read The Freight Manual) 
+Experienced team s understand the need to  be organised, ship early and ship everything  together. 
+When you start planning to build your competition vehicle, start planning your shipping. 
+Pay attention to detail. The work of the best agent will only be as good as the information you provide, 
+and remember, your agent only acts on your behalf , you retain full responsibility, especially for 
+biosecurity and quarantine compliance. 
+Factor in some extra time so that a shipping delay will not become a total disaster! The Freight Manual 
+details approximate timeframes for direct sailings, it is vital to ensure you allow enough time to allow 
+for possible delays for extended transit time and then you will need to factor in biosecurity and 
+quarantine compliance. 
+If you choose air freight, do not assume that battery packs will be able to be shipped with your vehicle. 
+Please ensure you do not refer to documents from previous e vents as the information has 
+more than likely changed, especially around transit times. 
+Customs 
+For details of what items can be brought into Australia please visit the Australian Border Force website 
+– https://abf.gov.au  
+Quarantine 
+Experience shows that Quarantine, not Customs is still the most common cause of delays to 
+your program!  Teams must be aware of Australia’s biosecurity regulations and ensure that all 
+vehicles and equipment shipped are clean inside and out, and that no food and organic items or 
+undeclared goods are packed with the shipments. Australia has some of the strictest requirements 
+regarding importing goods.  
+All goods will be inspected by the Department of Agriculture, Fisheries and Forestry (Quarantine) 
+prior to being released. 
+For a list of banned materials please see: 
+https://www.abf.gov.au/importing-exporting-and-manufacturing/prohibited-goods  
+If quarantine inspectors find something they do not like, the inspection stops at that point until the 
+problem is resolved. If the subsequent inspection finds a different problem, the process is repeated.  
+Yes, it is frustrating, but it can be avoided through preparation and planning. 
+
+--- page 10 ---
+ 
+10 
+OFFICIAL 
+Serious delays have been experienced in the past by inspectors finding:  
+• Dirty tents—grass and soil from previous use is a biosecurity hazard  
+• Seeds in the Velcro closures of backpacks 
+• Competition vehicles with mud on the wheels 
+• Undeclared or illegal food items 
+• Crates made from untreated wood. 
+Unfortunately, the event organiser is unable to undertake negotiations with Customs, Quarantine or 
+shipping agents on your behalf. 
+The Freight manual is provided as a separate document. If you have your own freight agent, give 
+them a copy as it contains important information on Australian import procedures administered by 
+customs, quarantine, and bio-security authorities. 
+Deliveries 
+Details of consignment labelling are in the Freight Manual.   
+Entrants do not have access to Event Headq uarters before Saturday 7 August 2027; therefore, 
+no deliveries can be accepted before that date. 
+Attempted delivery before Saturday 7 August 2027 will be refused, and you may face delays or 
+additional charges from your freight company. 
+Please note that if a forklift or crane is required, it must be arranged with your freight company prior 
+to delivery. The cost of heavy lifting equipment is a team responsibility. 
+Road Vehicle Imports 
+All road vehicles (including trailers) arriving in Australia require a permit from the Federal Department 
+of Transport and Regional Services.  
+It is important that, as Team Manager, you study these issues as soon as possible and plan for the 
+correct documentation to accompany your vehicles to Australia. 
+Competition vehicles will only be allowed to use public roads as part of the event under strict conditions 
+and will be subject to the event organiser’s special arrangements. 
+Support vehicles and trailers must comply with Australian Design Rules (ADRs) and approvals for 
+temporary importation must be sought from the Department of Transport and Regional Services. See 
+the following link : Importing a road vehicle into Australia | Department of Infrastructure, Transport, 
+Regional Development, Communications and the Arts. 
+Support vehicles and trailers presented for temporary importation under the ATA Carnet system, and 
+which hold current registration for use on public roads in their country of origin and which are valid for 
+a duration not less than your stay in Australia, may be exempt from these requirements.   
+Team Managers must appoint their own shipping agent or customs broker. 
+
+--- page 11 ---
+ 
+11 
+OFFICIAL 
+Team Managers are also reminded of the distances between Australian cities. Experience shows that 
+a container offloaded in Sydney, Melbourne or Perth can take several days to clear customs and pass 
+quarantine inspection. Once outside the dock gates, it can still take  a minimum of  5 days from 
+Sydney, Melbourne, or Perth to get to Darwin by road. It is important to understand these timelines 
+when planning the logistics of your shipment as even minor delays will severely disrupt your 
+preparation for the Bridgestone World Solar Challenge, and your ability to qualify and participate. 
+  
+
+--- page 12 ---
+ 
+12 
+OFFICIAL 
+Getting to Australia 
+You, your team, and your supporters 
+It is essential that all team members are present at Registration, starting  Monday 16 
+August 2027. 
+Many international airlines fly to Australia. Most flights land at our major gateways of Sydney and 
+Melbourne, as well as Brisbane, Adelaide, and Perth. 
+Very few international flights fly  directly to Darwin. Flights to Darwin from other Australian cities are 
+often full and it is important to book these flights early. 
+Please understand the size of Australia and the remoteness of Darwin from other major cities in our 
+country. Darwin is closer to Singapore than it is to Sydney. Driving from Sydney to Darwin can take 5 
+days so ensure that you have enough time to make your way safely to the Event. 
+It is also important to allow your team enough time to acclimatise to the Australian weather and time 
+zones before starting the Event. 
+Visas 
+Travellers from other countries usually need a visa to enter Australia. Nationals from many countries 
+can access the simplest form of visa, an ETA (Electronic Travel Authority), online. 
+It is your responsibility to organise the correct travel documents relevant to your circumstances. 
+Please consult the Australian Government website at https://www.abf.gov.au for further details. 
+The Bridgestone World Solar Challenge will be registered as a ‘bona fide’ event with the Department 
+of Home Affairs (Immigration) : https://immi.homeaffairs.gov.au/. The event organiser will not, 
+however, exercise influence to expedite visas.   
+Invitations and letters in support of visa applications 
+Department of Immigration guidelines  prevent the event organiser from providing ‘invitations’ to 
+individual team members. The event organiser can, however, provide a formal letter confirming the 
+dates of the event and the registration of your team which will support your visa application. 
+Visa support letters can only be provided to teams who have paid their registration fees, have 
+submitted their compulsory documentation, and have registered the individual people concerned as 
+bona fide members of their team. 
+From December 2026, Team Managers will be given access to a Visa Application Support Letter 
+Request Form. Completed forms will require the full name, date of birth, nationality,  and passport 
+number of the individual. Incomplete forms will not be processed, and new requests will be prioritised 
+over changes. Our letter of confirmation will be forwarded by email as a PDF attachment. No visa 
+support applications will be processed after 1 May 2027.  
+
+--- page 13 ---
+ 
+13 
+OFFICIAL 
+Arrival in Australia 
+Teams must advise the Event Headquarters of your travel plans. This information is required as part 
+of the mandatory documentation, further details to follow; however, in brief, please advise of the below 
+at a minimum as soon as possible:  
+• Your flight details and arrival date 
+• The details of your planned accommodation Australia, especially in Darwin & Adelaide 
+• The location of your base camp/workshop—especially if not at Event Headquarters. Note 
+that teams must be based at Event Headquarters from Monday 9 August 2027 (Regulation 
+3.10.2). 
+If your team is arriving well in advance of the event , it is important to let us know so that you can be 
+contacted with latest information. We would also like to let our media team know , as there are often 
+calls for pre-event publicity. 
+Mobile (Cell) Phones 
+Your 3,000 km journey will see you pass through some of the most remote areas of the Australian 
+landscape, including large distances with no cellular coverage.  Of the many telecommunications 
+providers in Australia, Telstra offers the best coverage of the event route, including many of the 
+roadhouses and towns along the Stuart Highway. You can choose to purchase a  SIM card for an 
+unlocked phone, or you can purchase prepaid phones. There are Telstra retailers in all major towns 
+and cities. See: https://telstra.com.au/online-shop  
+When you buy your phone or SIM, you will not  know the number before you go to the store, and we 
+won’t know the number until you tell us! 
+Please make the Event Headquarters one of your first calls on your new mobile device so event staff 
+can confirm your Australian contact details. 
+Wi-Fi/Mobile Broadband 
+A level of Wi -Fi will be provided at relevant event sites; however, this should not be relied upon for 
+your team operations. Low-cost prepaid mobile broadband devices are widely available and have the 
+advantage of servicing your needs in most locations. Telstra provides the best coverage of the route 
+used by the Bridgestone World Solar Challenge: https://telstra.com.au/online-shop 
+Car Hire (Vehicle Rental)  
+You will need to arrange transport for team members , your Observer, and your competition vehicle 
+(when it is not on the road). Some important considerations are: 
+• Most car rental companies have a minimum driving age of 21, some at 23 and occasionally, 
+25. CHECK! 
+
+--- page 14 ---
+ 
+14 
+OFFICIAL 
+• You are strongly advised to make advance booking for car rental. The Internet is a great 
+resource! 
+• It costs extra for one-way rentals from Darwin to Adelaide 
+• Not all hire car companies in Australia will allow their vehicles to be driven into another State. 
+• Some companies in the Northern Territory will not allow their vehicles to be taken into South 
+Australia. 
+Learn from the team who had a cheap car rental and found that, having crashed it near Alice Springs, 
+it was their responsibility to return the wreck to Sydney! 
+  
+
+--- page 15 ---
+ 
+15 
+OFFICIAL 
+Driving in Australia 
+ 
+In Australia vehicles travel on the left-hand side of the road. Vehicles are right hand drive. 
+Unfamiliarity with this system is a risk factor so avoid stopping on the ‘wrong’ side of the road where 
+it is all too easy to take off on the ‘wrong’ side, with obvious consequences. 
+The Bridgestone World Solar Challenge is held on public roads and it is an obligation of your 
+participation that all vehicles operated in conjunction with the event will be driven in accordance with 
+state and territory road rules. 
+Fatigue 
+Driving distances in Australia can be extreme—that is why you came here, right?  
+One of your biggest risk factors is fatigue. This is especially true of newly arrived international 
+travellers. Unfortunately, you will not be the first participant to wreck a newly acquired hire vehicle on 
+the way to Darwin! 
+We have also seen teams who, after all the effort they put into building the competition vehicle left it 
+so late to travel to Darwin that, in what the police described as a ‘fatigue related incident’, they never 
+made it. 
+Australia is a vast country and car trips outside major cities often take many days. You will be driving 
+long distances so plan to have someone else in the car who can share the driving.  Take fatigue 
+management seriously! 
+It is recommended to take a break from driving every two hours. This is important even if you are near 
+your destination, as statistics show that fatigue related accidents often occur near the end of a journey. 
+It is also possible for fatigue crashes to happen on short journeys, or near the start of a trip especially 
+when you are jet-lagged or have been working all night! The way to avoid these issues is simply not 
+to drive if you feel tired or know your concentration is not at its best. It is a good idea to task dedicated 
+drivers within your team who can rest when everyone else is working. 
+
+
+--- page 16 ---
+ 
+16 
+OFFICIAL 
+When planning each day of travel, spend some time calculating how long it will take to drive between 
+destinations and be realistic about how far you can drive in a day. 
+Speed 
+Australia uses the metric system. Distances are measured in kilometres and speed in kilometres per 
+hour (km/h). The national default speed limits are 50 km/h in urban areas and 100 km/h on the open 
+road unless sign-posted otherwise. This means that lower or higher limits can apply. There is also a 
+default speed limit of 25 km/h when passing roadworks and emergency service vehicles. 
+Some sections of the Stuart Highway have a limit of 130 km/h. Regardless of the speed limit, we hope 
+that you will recognize the importance of driving safely  within your capabilities and those of your 
+vehicle and in accordance with road and weather conditions. 
+Speed and red-light cameras operate in most parts of Australia and Australian traffic cops are good 
+at their jobs! They can swiftly empty your wallet, and serious infringements result in the car being 
+impounded. Try explaining that to the rental company! 
+Seatbelts 
+The law requires all occupants of motor vehicle to wear seatbelts. The driver is responsible for making 
+sure that all passengers are wearing seatbelts. Fines exist for those who do not wear them (remember 
+this also applies to passengers travelling in the back of campervans). 
+Driving Whilst Under the Influence of Alcohol 
+The Blood Alcohol Concentration limit in the Northern Territory and South Australia is 0.05 (BAC). 
+The safest level is zero! 
+Four-Wheel Drive Vehicles 
+The handling characteristics of four-wheel drive vehicles differ from those of standard passenger cars. 
+These vehicles, designed for both on-road and off-road conditions, have a high centre of mass, and 
+can be affected by winds. 
+If you have hired a four-wheel drive vehicle, ensure you know how and when to use the vehicle and 
+how to safely change a tyre.  Note that many hire company’s insurance conditions preclude off-road 
+use of off-road vehicles!  
+Single Vehicle Rollovers 
+One of the most frequent types of crash in the Northern Territory and outback South Australia is a 
+single vehicle rollover. Invariably, the causes are fatigue, inattention, or distraction. It is very common, 
+when a vehicle drifts off the road for the driver to overcorrect. If you do drift off the edge of the road, 
+
+--- page 17 ---
+ 
+17 
+OFFICIAL 
+let the vehicle gradually slow down, keeping the wheels straight, and without braking, ease the car 
+back onto the road. 
+Vehicle Roadworthiness 
+All vehicles (including trailers) driven on Australian roads must be roadworthy, registered and insured. 
+Ensure that your car is in good mechanical order before you travel. 
+Check that tyres, brakes, lights, and windscreen wipers are all in good condition and working properly 
+before leaving the hire company depot, and regularly throughout the journey. 
+Driving with Road Trains 
+When preparing to overtake a road train, or any large vehicle, the further back you are the better your 
+forward vision, and the more time you have to plan the overtaking manoeuvre. When overtaking, use 
+your mirrors, signal, move out and pass quickly but sensibly. Do not move back in until you see both 
+road train headlights in your mirrors and don’t slow down until well ahead of the vehicle you have 
+overtaken. 
+Only overtake when you are confident you can safely do so. 
+Do not cut in front of road trains as they slow for traffic lights or when out on the highway. They need 
+more road space than you to slow down and stop. Do not take unnecessary risks, be patient. 
+Speak to road train drivers on your radio (Ch 40)—it is one of the reasons you have a radio. 
+Convoys 
+Do not drive in convoys. By law, in road train areas, longer vehicles such as caravans must leave 
+at least 200 meters between vehicles to allow other vehicles, including other road trains, to overtake. 
+Pedestrians 
+Always be on the lookout for pedestrians. Be particularly careful at night because pedestrians may be 
+encountered on town or rural roads. 
+Wildlife 
+Many roads in the Northern Territory are unfenced so beware of wandering stock. Out on the road 
+(and camping in the bush) do not be surprised to see feral camels, pigs, buffalo, horses, dingoes (wild 
+dogs), emus, donkeys, kangaroos, or cattle. Slow down and sound your horn to alert the animals of 
+your presence. Never swerve to avoid wildlife—that is a common cause of drivers losing control of 
+their vehicle. 
+Generally, animals will give you a wide berth, but they do like to stand on the road at night. Be aware 
+of birds of prey and other wildlife feeding on dead animals killed on the road. Huge eagles often stand 
+
+--- page 18 ---
+ 
+18 
+OFFICIAL 
+their ground until the last possible moment and may take off into the wind—which may be straight in 
+your direction! 
+Poisonous spiders and snakes are plentiful; however, problems are rare. We have very few problems 
+with snakes. They do not want to eat you. They are sensitive to vibrations on the ground and will move 
+away, so let them. Simply keep out of their way and they will ignore you. Spiders —simply be aware. 
+Don’t leave boots outside at night and check them before putting them on. 
+Insect bites are also a common problem and some participants have even been hospitalised by failing 
+to abide by a few simple precautions. Sand flies and mosquitoes are common at Event Headquarters, 
+especially around dusk. Wear loose clothing, cover exposed skin, and use a quality insect repellent . 
+Those containing DEET (e.g., Bushman’s brand) are good. If you do suffer bites, take antihistamines, 
+use proprietary medication (e.g., Stingose), and seek medical advice before leaving Darwin.   
+It is also very important to understand that Saltwater Crocodiles are common throughout the Top End 
+and Katherine regions of the Northern Territory . Crocodiles are potentially dangerous to humans . 
+Crocodiles inhabit both saltwater and freshwater areas. It is imperative to obey warning signs and 
+never to swim in water where crocodiles may live even if there is no warning sign, For  further 
+information please visit Crocodile safety (nt.gov.au) 
+Photographs 
+If you stop to take photographs, park your vehicle well off the road in an area where it will not aff ect 
+other traffic or create a safety risk.  Standing in the middle of the road to take photographs  is best 
+avoided, but if it’s a ‘must have’ shot use another person as a traffic spotter. 
+Dust 
+Vehicles on unsealed roads can raise a dust cloud that may obscure your vision. In dusty conditions, 
+pull over as far left as you safely can and wait until the dust has settled. 
+Leaving your headlights on will help other vehicles see you through the dust.  As previously advised, 
+use the radio (Ch 40). 
+Railway Crossings 
+Trains always have right of way. Not all rail crossings have gates, lights or audible warning systems 
+so be sure to always check before crossing railway  tracks. Never enter a level crossing unless you 
+can clear the crossing completely on the other side. 
+Driving at Night 
+Don’t! At least avoid driving between sunset and sunrise. The ability to see animals on the road at 
+these times is greatly reduced and the risk of a crash is greatly increased. 
+
+--- page 19 ---
+ 
+19 
+OFFICIAL 
+Aboriginal Land 
+The Bridgestone World Solar Challenge does not pass through any aboriginal lands which require 
+permits but travelling off track may involve trespassing on Aboriginal lands. Study of Aboriginal culture 
+is a unique and rewarding experience, however travellers should be aware that it is illegal to enter 
+Aboriginal land without a permit. 
+There are also areas where it is illegal to possess alcohol, and these can potentially include roadside 
+areas where you may be camped. Please respect the signage concerning this issue. 
+Prohibited Areas 
+You may notice on detailed maps that the Stuart Highway passes through sections of desert that are 
+mysteriously designated as ‘Prohibited Areas’. Both military and civilian rocket scientists still populate 
+the dark bunkers deep within these areas, and although the fine print on the roadside signs suggest 
+the most prudent course of action is ‘Eyes Front’ and ‘Keep Going’, you can be assured that since the 
+last round of nuclear  testing in the 1950s, nothing (with the possible exception of a stray rocket) , is 
+likely to affect your passage on the Stuart Highway. 
+These areas are well signposted, and the Australian Government Department of Defence has advised 
+that teams may camp in the parking bays or on roadside verges within the ‘Prohibited Area’ and that 
+normal common sense should apply. There are several areas that have the potential to provide good 
+solar team campsites, although teams are advised to stay within 100 metres of the highway and not 
+to cross any gates or fences. 
+  
+
+--- page 20 ---
+ 
+20 
+OFFICIAL 
+Remote Area Travelling (Outback): General Tips 
+The Australian Outback offers spectacular scenery and the chance for a great adventure, but it is 
+important that your team is prepared for travell ing through this isolated area.  Distances between 
+townships vary significantly along the Stuart Highway, with food and fuel not always available at 
+regular intervals. 
+The outback can be very hot and dry, and the nights can be cold. It is also possible for it to be raining 
+so you need to be prepared for all weather conditions. 
+To ensure that you get the best out of your experience, it is important to thoroughly prepare for your 
+journey. Your safety is important to us. 
+General Tips: 
+• Be careful how you pack your vehicles—a loaded roof rack will increase the chance of a 
+rollover 
+• Carry plenty of water—at least 4 litres per person per day 
+• Carry enough food for each person for two days 
+• Carry spare fuel 
+• Take a hat, sunscreen, and insect repellent 
+• Never camp near the water's edge or in dry creek beds, it may not be raining where you are, 
+but water could be coming through the river system from a long distance away 
+• Take notice of all signs—especially ‘no swimming’ signs at waterways which may be 
+inhabited by saltwater crocodiles 
+• Always camp in safe locations—at least 10 m from the highway 
+• Be mindful that snakes inhabit most areas, so be cautious when walking through long grass 
+• Assume everything is venomous and give them a chance to get out of the way 
+• Shake out your shoes in the morning to remove any 'critters' that have settled in during the 
+night. 
+If for some reason your vehicle breaks down or gets stuck, STAY WITH YOUR VEHICLE. Someone 
+will always come by. 
+  
+
+--- page 21 ---
+ 
+21 
+OFFICIAL 
+Team Preparation Facilities  
+Team preparation facilities will be provided at Event Headquarters, location will be advised.  
+(Regulation 1.24 refers). 
+Pit garages ( workshops) will be available from 08 :00, Saturday 7 August 2027 to noon Sunday 22 
+August 2027 . by which time all vehicles, materials and waste must  have been removed (see also 
+Regulation 3.10.10) 
+Teams must register with the Bridgestone World Solar Challenge Site Manager upon arrival, with the 
+Bridgestone World Solar Challenge Help Desk. 
+Each team is entitled to a workspace with power (230 V 50 Hz 10 A single phase), light, water & toilet 
+facilities.  
+Teams may not reserve workspaces in advance. Preferential allocation of workspaces that form part 
+of the permanent infrastructure of the venue will be given to teams who base themselves on site and 
+arrive early. Please be aware that most workspaces are shared with other teams. 
+Keys are available on payment of a (refundable) cash deposit of $200.  
+Pit garages are to be left  in a clean and tidy condition prior to your team’s departure on Sunday 22 
+August 2027. Keys are to be returned to the Event Help Desk . It is the responsibility of the Team 
+Manager or delegate to return the key and collect the refundable deposit once the pit garage has been 
+checked. Any deposits not collected prior to departure will be available from the Information and 
+Merchandise Booth at the finish line, upon confirmation of the key return. No key returned, no deposit 
+refunded. 
+The receipt of a key does not guarantee occupation. The facility is not free storage*. If the workspace 
+is not utilised as intended, you will be required to return the key and make the space available to a 
+team needing workspace.  
+*The storage of vehicles, crates or containers can be arranged within the area secured by the event organiser . 
+The space allocated to each team will include a portion of the paddock in line with each garage, which 
+is reserved for your team support vehicles to be parked in single file. 
+Additional parking areas are available close by. Crossings may not be obstructed.  
+It is important to note that camping is not permitted at Event Headquarters. There are several camp 
+sites close to the track. 
+Conditions of Occupancy  
+• Australian Workplace Standards apply to all activities on the site, NT WorkSafe 
+• Every person working on site must report to reception on arrival. 
+• Australian road rules apply to access roads within the complex and speed limits must be 
+observed. 
+• The main gates of the complex will be closed overnight between 22:00 and 06:00. 
+
+--- page 22 ---
+ 
+22 
+OFFICIAL 
+• Teams may only work through the night by prior arrangement with the Bridgestone World 
+Solar Challenge Site Manager. Abuse of such arrangements will not be tolerated. 
+Remembering that camping is not permitted on site. 
+• Testing competition vehicles in the car parking areas or access roads is not permitted. 
+• Access to the track without the permission of the Track Controller is strictly forbidden. 
+• All rubbish must be placed in the bins. Large items and additional waste can be deposited 
+directly in the skips provided. 
+• Cost of any damage or additional cleaning is recoverable from the team concerned. 
+Australian safety laws place strict obligations on every individual. For the health and well -being of 
+others, health and safety inspections may be carried out in pit garages by NT WorkSafe inspectors. 
+These inspectors have the power to close  any operation they declare hazardous, and issue on the 
+spot fines.  
+The weather can be extremely warm at the Event Headquarters complex. Please remember to drink 
+plenty of water and apply sunscreen. There are often insects that bite, especially at dusk and dawn—
+cover up and use insect repellent. 
+Track Testing  
+A Track Controller will be appointed to ensure safe operation of the facility. The track must not be  
+accessed without clearance from the Track Controller. Contact with the Track Controller can be made 
+through the Bridgestone World Solar Challenge Help Desk. 
+The Track Controller will co- ordinate session times for track use. Track capacity is a maximum of 4 
+competition vehicles at any one time. Session times will be limited to 30 minutes during busy periods. 
+Competition vehicle drivers must wear their helmet. Strict speed limits will be applied in Pit Lane. 
+All event safety precautions must be observed. Competition vehicles must be accompanied by a rear 
+support vehicle always while on the track, with flashing yellow light switched on. 
+Track etiquette is important. The track is for testing not racing. If another team wishes to run faster 
+than your car, you must give way. 
+A disabled car must not be repaired on the track; it must be recovered to the pits. The Track Controller 
+will co-ordinate recovery. A driver of a disabled vehicle should wait for recovery in a place of safety. 
+The track is only to be used for testing under the control and supervision of staff authorised by Event 
+Headquarters. Misuse of this facility (speeding, driving recklessly on site, driving any vehicle on the 
+track without permission, using the track at night or any other behaviour  detrimental to the safety of 
+any person) will result in the removal of track privileges. Event penalties, which may include exclusion, 
+will also be applied. Team Managers are reminded that they will be held accountable for the actions 
+of their team members. 
+
+--- page 23 ---
+ 
+23 
+OFFICIAL 
+Road Testing the Competition Vehicle in Australia  
+The laws relevant to temporary and conditional registration of motor vehicles may mean that the 
+arrangements for road testing will be different from those we have enjoyed in the past. In addition, the 
+requirements for Northern Territory may be different to those of South Australia. 
+The NT Department of Infrastructure, Planning and Logistics  has indicated that  they will consider 
+applications for road testing in their jurisdiction under similar conditions to 2025.  
+At the time of publication of this document, details remain under discussion,  but it is hoped that this 
+information will provide some comfort to those wishing to crystallise their travel plans.   
+Further information will be provided as it becomes available. 
+Please be aware that individuals and teams making their own demands across a range of Federal, 
+State and Territory government departments in Australia without understanding the areas of 
+responsibility, or the sensitivities of declaring they are planning illegal activities (i.e., ‘racing’ on public 
+roads) are counterproductive to the process. 
+DO NOT CONTACT STATE AND TERRITORY GOVERNMENT DEPARTMENTS DIRECTLY!  
+Cruiser Class entrants who are saying that this does not apply to them as they have road registration 
+at home need to understand that the arrangements made by the event organiser will only permit use 
+of public roads when the conditions of the relevant licencing authority are met, and any arrangements 
+they may make themselves will not allow testing and are unlikely to allow participation in the 
+Bridgestone World Solar Challenge. Team Managers wishing to discuss this further are invited to 
+contact the Event Organiser. 
+Pre-event testing facilities will be available at Event Headquarters. No testing is to be conducted in 
+the car parks or access roads. Event penalties will apply. 
+Driving an unregistered vehicle is considered a serious offence in Australia.  Teams operating their 
+competition vehicle on public roads without a permit may be prosecuted by police and 
+excluded from the event. 
+  
+
+--- page 24 ---
+ 
+24 
+OFFICIAL 
+Health and Wellbeing 
+We want the Bridgestone World Solar Challenge experience to be a memorable experience for each 
+member of your team. Experience has shown that it is important to be well organised and prepared 
+when you arrive in Darwin.   
+We hope that you and all your team members will be fit and healthy when you arrive in Australia. If 
+anyone is sick before leaving home, they should consult their  own medical practitioner before travel 
+to Australia. 
+Anyone with special medical needs must advise the event via the event medical and 
+emergency contact form. 
+Those people on medication should carry sufficient quantity for their stay. Copies of prescriptions may 
+be requested by Customs officers, as well as being useful if visiting a doctor. Care should be taken to 
+look after medicines as it may not be possible to replace them in remote areas of the country. 
+Note that while the event will look after registered participants in the case of accident, the provisions 
+we make for sickness only apply to the remote areas we will be travelling in. Sickness in Darwin should 
+be referred to one of the local medical centres. If in doubt , contact the Event Help Desk at Event 
+Headquarters. 
+It is important that you allow enough time for your team to arrive in Darwin as it is important to manage 
+fatigue, so that your team members can acclimatise and get ready for their adventure without having 
+to work 24 hours a day. The time shift to Australia is possibly the greatest many will have experienced 
+so, ideally, one day for each hour of time difference should be allowed. 
+All team members must be in Darwin and registered by Thursday 19 August 2027. 
+Consider driver fatigue for competition vehicle and support vehicle drivers, minimise stress, and make 
+sure drivers have proper hydration, nutrition and rest. Fatigue creeps up on drivers , don’t overlook 
+support car drivers! An early indicator of fatigue is a slow response to the radio. Power napping 
+(whilst not driving) is a great strategy—better to lose 15 minutes than have an accident!   
+It is likely that to you, ours is a foreign land, full of strange customs, creatures (more about our 
+wonderful wildlife later) and food. Yes, we even put beetroot on our burgers! You can certainly eat 
+well in Darwin, but it is very important to pay attention to hydration. 
+The Bridgestone World Solar Challenge passes through the driest part of the driest continent on earth. 
+Dehydration is a serious hazard, and the Chief Medical Officer suggests that you prepare your body 
+by drinking water at regular intervals during the weeks preceding the event. How much will depend on 
+your body mass, but an average person should consume around 3 litres over a 24-hour period.   
+Ambient temperature water is far better for you than  ‘sports drinks’ and the most reliable indicator of 
+a healthy body is that you pee regularly. Thirst is NOT a reliable indicator for the need for fluid, in fact 
+feeling thirsty is your body’s way of telling you that you are already dehydrated. 
+This section would be incomplete without a section on personal hygiene. Experience shows that bush 
+camping and pit toilets often lead to upset stomach. Washing hands takes on a new importance as no 
+one wants the ‘runs’ while travelling down the highway for 10 hours a day! Put antibacterial hand 
+sanitizer on the shopping list and use it regularly!  Remind those responsible for feeding the team of 
+the importance of hygiene when handling and storing food.   
+
+--- page 25 ---
+ 
+25 
+OFFICIAL 
+Garbage 
+It is a good idea to segregate , and deal with,  unwanted items appropriately.  Food scraps can be 
+buried, paper and cardboard burned, plastics and bottles can be carried forward to Adelaide. Those 
+used to city life expect others to clean up;  this does not happen in the bush. And, please, don’t put 
+your rubbish in wayside mailboxes! Please be aware of the actions of your team members. 
+Health Notes from the Chief Paramedic 
+(a little light relief with some serious messages) 
+With planning and care we will all have a safe, healthy, fun event. 
+    Only limited pharmaceutical services will be with the event. 
+       Road accidents are the biggest risk. Don't have one. 
+          Live longer. Make sure your driver is awake. 
+             Diarrhoea can be avoided by washing hands and cooking food properly. 
+Sort out your regular medication needs before you leave Darwin 
+   Only work under a jacked vehicle if it cannot fall on you. 
+      Lives are lost in association with speed, tiredness and inattention. 
+         Ambulance transport is very costly. Be sure you have ambulance cover. 
+             Remember you are on a public highway. Other users are not on holiday.  
+Care to be taken with fires, cookers, lights etc.  
+     Heat stroke is dangerous. Keep cool and drink plenty of water.  
+         All snakes are to be considered poisonous. Just leave them alone.  
+              Long hours at the wheel cause many rollover crashes.  
+                  Learn the basics of resuscitation - airway, breathing, circulation.  
+                      Event health advice will be available via Sat phone.  
+                         No alcohol at all between sunrise and 1700 
+                            General practice and hospital services are only found at the bigger towns en route.  
+                                Every team should have a well-equipped first aid kit.  
+  
+
+--- page 26 ---
+ 
+26 
+OFFICIAL 
+Insurance 
+Further to Regulation 1.18. 
+Personal Travel Insurance 
+Participants are advised that a personal travel insurance policy in respect of theft, loss, sickness, and 
+accidents is highly recommended. The Australian Government has reciprocal agreements covering 
+limited subsidised health services for medical treatment with some countries through Medicare. More 
+detailed information can be found at About reciprocal health care agreements - Reciprocal Health 
+Care Agreements - Services Australia  
+If you are planning adventure activities such as diving, bushwalking, or travelling in remote areas  
+outside of the event, it would be wise to check that your own travel insurance policy fully covers these 
+activities. Remember to bring your insurance policy details and emergency contact numbers with you. 
+Compulsory Third Party  
+The Third-Party Bodily Injury insurance component of Motor Vehicle Registration  is payable directly 
+to the NT Motor Accidents (Compensation) Commission at the time of vehicle registration ( Saturday 
+21 August 2027). Please see Regulation 1.15.1. 
+Comprehensive Insurance  
+Comprehensive Insurance for personal effects , tools, equipment , competition vehicles and other 
+vehicles is the responsibility of the entrant. 
+The Australian Insurance Industry is closely regulated. It is extremely difficult for non- residents to 
+purchase insurance services in Australia, and it is suggested that entrants seek professional insurance 
+advice in their own country prior to travel.  
+  
+
+--- page 27 ---
+ 
+27 
+OFFICIAL 
+Compulsory Activities 
+Team Manager & Safety Officer’s Briefing (Mandatory)  
+The Team Manager's briefing will be held at Event Headquarters on Monday 9 August 2027. Details 
+will be posted on the official notice board at  Event Headquarters. It is the Team Manager ’s 
+responsibility to check this and attend the meeting. This meeting is for TEAM MANAGERS & SAFETY 
+OFFICERS ONLY. 
+Team and Team Member Registration 
+Registration times for each team will be allocated between 08:00 and 15:00 from Monday 16 August 
+2027 to Thursday 19 August 2027, location venue to be advised. 
+All participants of the team must present and sign- on at the time allocated. Team Managers are 
+specifically reminded that they were made aware of, and agreed to, this condition when applying for 
+a place in the event. 
+Every individual team member is required to attend registration sign- in at the time appointed for the 
+team. Registration (location to be advised) and must be completed to allow the competition vehicle to 
+enter the scrutineering area. 
+Team members will be able to prepare registration information prior to the event start by using the 
+designated online forms. The relevant forms, which includes questions regarding any allergies, 
+medical conditions, medications and provides details of an emergency contact person and contact 
+number, will be made available from 1 April 2027. The information provided in these forms will be 
+provided to the Chief Paramedic, for event purposes only. 
+It is important for Team Managers to be clear on who their team members are (team, support drivers, 
+media crew, parent supporters etc.) Per Regulations 1.12 and1.29, Team Managers will be required 
+to confirm this information as part of the Group D Compulsory Documentation by 28 May 2027. 
+Competition Vehicle drivers are required to produce their civil drivers’ licence. Please ensure these 
+important documents come to Australia!  
+Qualifying 
+All competition vehicles are required to qualify for the event by undertaking a series of technical 
+inspections and dynamic activities, which are undertaken during static and dynamic scrutineering. 
+Static Scrutineering 
+From 08:00, Monday 16 August 2027, location to be advised. 
+Scrutineering times are allocated by draw and announced on the official notice board  and online by 
+11:00 Sunday 15 August 2027. It is the Team Manager’s responsibility to check the time allocated. 
+
+--- page 28 ---
+ 
+28 
+OFFICIAL 
+It is a requirement that all teams plan their attendance and prepare to present themselves to 
+scrutineering at the time allocated. 
+The purpose of the scrutineering process is to confirm the vehicle presented is the vehicle described 
+in the documentation, that the regulations and design requirements have been met and that minimum 
+safety standards have been achieved.   
+It is important to arrive on time for registration. If you miss your time, you will miss your allocated 
+scrutineering time. The Chief Scrutineer may allocate a new time, however this may compromise the 
+opportunity of re-presentation, should any problems be discovered. 
+If you are unable to make your scrutineering time, please let the event officials know as soon as 
+possible. 
+Per Regulations 1.12.2 and 1.27, any requests to attend or participate in promotional activities or 
+public appearances etc are obligatory for all registered teams. Teams are advised that such activities 
+will occur during the static scrutineering process, a detailed program will be provided once details are 
+finalised. 
+Dynamic Scrutineering – Procedural Briefing 
+All Team Managers and competition vehicle  drivers must attend the procedural briefing prior to the 
+commencement of dynamic scrutineering at 07:00, Saturday 21  August 2027 , at Event 
+Headquarters. Further Details will be advised via the official notice board. It is the Team Manager’s 
+responsibility to check the noticeboard.  
+Media Call  
+All team members and their competition vehicle are required to attend the media call on Saturday21 
+August 2027, at Event Headquarters; this will coincide with Dynamic Scrutineering . Updates and 
+additional media requirements will be advised via the official notice board. It is the Team Manager’s 
+responsibility to check the noticeboard.  
+Pre-event Briefing 
+Pre-event briefings will be held on the afternoon of Saturday 21 August 2027. Details, including times 
+and venue location, will be advised via the official notice board  and online by 15:00, Thursday 19 
+August 2027. It is the Team Manager’s responsibility to check the noticeboard. 
+Official Start Line 
+The official start of the event will commence, Sunday 22 August 2027, starting from 7:30 am. Further 
+details on the event schedule and procedural instructions will be released in Darwin via Team Notice. 
+
+--- page 29 ---
+ 
+29 
+OFFICIAL 
+Official Finish Line 
+Per Regulations 1.12.2 and 1.27, any requests to attend or participate in promotional activities or 
+public appearances etc are obligatory for all registered teams. Teams are advised that such activities 
+will occur at the official finish line, a detailed program will be provided once details are finalised. 
+Static Scrutineering Process 
+Static scrutineering is separated into two parts—array/top-shell on, and array/top-shell off.  
+Key components of your vehicle may be marked and verified at different stages of the event.  It is 
+important that all your sponsor signage is on your vehicle prior to scrutineering so that these markings 
+can be made. 
+Escort vehicles, trailers, safety equipment and communications will also be inspected at scrutineering. 
+Please check the regulations about what you are required to bring with you. 
+Only seven (7) team members, including the Team Manager, are allowed on the scrutineering floor at 
+any one time (Regulation 3.12.3). This includes any interpreter required under Regulation 1.19.1. 
+The Team Manager is responsible for the number of team members present at any time. This number 
+includes any drivers, technical advisors and team media representatives. 
+There are raised viewing areas within the scrutineering hall. We ask that you do not go into the areas 
+which are closed off due to health and safety requirements. 
+Static scrutineering takes four hours. While every team member is required at registration, the whole 
+team is not required to be present for your entire scrutineering process. Y our Team Manager, 
+interpreter (if required) and key team members need to be present always during scrutineering (details 
+in Regulation 3.11). 
+Problems? 
+It is not the aim of the Chief Scrutineer to find fault. The onus of compliance is with the entrant.  
+Depending on the nature of the problem, non-compliance penalties may be issued, or an opportunity 
+may be provided to correct the problem and re -present. Re -presentation will occur at a time 
+determined by the Chief Scrutineer.  
+Except in exceptional circumstances, if your car has not passed static scrutineering by the close of 
+Friday 20 August 2027 then you will not be permitted to drive your competition vehicle to Adelaide. 
+Dynamic Scrutineering Process 
+Saturday 21 August 2027 from 07:00 at Event Headquarters 
+Competition vehicles that are successful in static scrutineering move on to d ynamic scrutineering, 
+which includes a timed lap to determine starting positions.  
+A mandatory briefing for Team M anagers and drivers will be held before the session commences . 
+Please see Regulation 1.12 for the event schedule. 
+
+--- page 30 ---
+ 
+30 
+OFFICIAL 
+Vehicle Registration Plate 
+Following the successful completion of dynamic scrutineering , teams must pay their Government 
+Motor Vehicle Registration fees, expected to be around $ 120.00AUD. Once these are paid the 
+Northern Territory Government will issue an event vehicle registration plate which must be affixed to 
+your vehicle in accordance with Regulation 2. 7.2. This vehicle registration plate authorises the 
+competition vehicle to be driven public roads during the event. 
+  
+
+--- page 31 ---
+ 
+31 
+OFFICIAL 
+On the Road–Darwin to Adelaide 
+About the Route 
+The Bridgestone World Solar Challenge is held on public roads in normal traffic. It is a privilege for 
+you to be allowed to do so and it is essential that the road rules and any conditions imposed by the 
+road traffic authorities are observed. 
+The route combines the  Stuart Highway from Darwin, Northern Territory to Port Augusta , South 
+Australia and then Highway One from Port Augusta to Adelaide—approximately 3,020 km. 
+A set of route notes will be compiled by the event organiser. As the value of the route notes is directly 
+proportional to their accuracy, the route notes will be reviewed at the last possible moment and be 
+available electronically for teams to download from June 2027. One hardcopy will be provided to each 
+team at registration. 
+Accommodation 
+We used to spend a great deal of time compiling a list of suggested accommodation in the major 
+centres, however, online search and booking sites are more comprehensive. www.trivago.com.au is 
+a useful site. 
+Overnight Stops  
+Australians value the self -sufficient ‘bush camping’ experience. Most nights on the road teams will 
+camp where they stop at 17: 00. If you find yourself at a town or roadhouse you may be required by 
+local laws to camp in the camping grounds and pay the appropriate fees. Teams should not camp in 
+designated truck parking bays which are part of a transport fatigue management program. Road trains 
+operate through the night. 
+As we have already said, bringing used camping equipment to Australia can result in Quarantine 
+delays. It is often more expensive to ship camping gear than it is to source it new in Darwin. 
+Our recommendation is to arrive in Darwin with plenty of time to enjoy the sights and shop for your 
+on-road needs. If possible,  your supply officer should not be concerning themselves with setting up 
+your competition vehicle but be free to source your on -road requirements. Y our team will perform 
+much better when properly prepared and adequately provisioned. 
+After the event, anything you do not wish to ship home to your own country can be recycled. The event 
+organiser will plan with community groups such as Scouts, and facilities to help with this will be 
+established in Adelaide. 
+Regulation 3.28 provides more detail concerning selection and use of overnight stops. 
+
+--- page 32 ---
+ 
+32 
+OFFICIAL 
+Cruiser Class Recharging 
+Regulations 2.6 and 3.19.5 provides more detail on Cruiser Class charging. We don’t know where you 
+will be stopping each evening so you are responsible for providing the equipment required to recharge 
+your Cruiser Class vehicle. 
+Personal Equipment 
+It makes sense to carry only basic camping and cooking requirements. Most of your campsites will be 
+on the side of the road.  
+Take a small tent, warm sleeping bag and light mattress—it is not uncommon for it to be cold overnight. 
+Bring suitable clothing, noting that there will be varying weather conditions. It can be very hot in the 
+north and quite cool in the south. Having your own cutlery , plates and mugs will avoid the need for 
+disposables. 
+Essentials include a small torch, spare batteries, insect spray and personal toiletries. Personal hygiene 
+is particularly important for bush camper s (more information on this in the Health and Wellbeing 
+section). 
+Non-essentials might include a light-weight camping stool or chair. 
+Communal needs will include cooking equipment in sufficient quantities for the size of your team, and 
+facilities for washing and keeping the camp clean and tidy. Plastic buckets and bowls for washing up 
+(don’t forget the washing up liquid and tea towels). 
+Water 
+It is important to note that in the desert many roadhouses rely on bore water, and although it will do 
+you no harm, it can often taste salty . Experience shows that it is a good idea to carry drinking water 
+in separate containers from water which can be used for washing or other purposes. Many townships 
+will have a public standpipe where it is a good idea to top up water containers. Many roadhouses will 
+allow you to top up water if you buy fuel. It is always polite to ask. Many parking bays have rain-water 
+tanks. It is a bad idea to rely on these as they are often dry. 
+Fire 
+You may want a campfire, but before striking the match make sure you clear the area around the fire 
+of vegetation. Take care when collecting firewood, snakes like living in hollow logs. Make sure the fire 
+is totally extinguished before moving on. 
+Fire Ban Information  
+We recommend that you adhere to the following guidelines in both the Northern Territory and South 
+Australia regarding the use of campfires. There are times when fire bans and fire danger periods are 
+
+--- page 33 ---
+ 
+33 
+OFFICIAL 
+in place, please note fire bans have very strict rules about not lighting fires. Please ensure you refer 
+to the following links for the latest information: 
+• Fire bans and fire danger periods | NT.GOV.AU 
+• Fire Danger Season dates & permits - CFS 
+If permitted to have a campfire, you must take the following precautions when lighting a fire: 
+• Campfires used for cooking, gas fires or fires for comfort do not require a permit during Fire 
+Danger Season unless a Total Fire Ban has been declared, at which time, no fires are 
+allowed. 
+• During extreme weather conditions (i.e., high winds and high temperature), DO NOT light a 
+campfire. 
+• Your campfire must be in a 30 cm deep trench. Clear a 4-metre area around the campfire 
+and have a responsible person attending to the fire always. 
+• Ensure that your fire is completely extinguished before you leave your camp area. 
+Provisions 
+The type and amount of food and drink required will depend on the personal preferences of your team. 
+It is a good idea to test your plan during your time in Darwin, that way you will see what supplies you 
+run short of and what you may not need to carry. 
+Don’t forget you will have an Official Observer as part of your team  for the duration of the 
+event. 
+You will be required to make provisions for the Observer ’s individual equipment. An example of the 
+items they may bring is listed below. 
+• Sleeping bag 
+• Small tent/swag 
+• Small air/foam mattress 
+• Event Uniform / Clothes 
+• Closed toe shoes 
+• Water bottle 
+• Cutlery, cup, plate, bowl 
+Refrigeration, food handling and storage should be part of your team safety plan. Ice may be 
+replenished from most roadhouses but be aware that if you are the fourth or fifth competition vehicle 
+team to visit that day supplies may not be guaranteed. 
+Supermarkets—Darwin, Katherine, Alice Springs and Port Augusta have the best facili ties. Tennant 
+Creek and Coober Pedy each have a small supermarket. In between,  there are roadhouses and 
+township stores which carry basic supplies. 
+
+--- page 34 ---
+ 
+34 
+OFFICIAL 
+Fuel 
+Fuel (diesel, petrol, LPG, and EV charging) is available at regular intervals along the Stuart 
+Highway. The prices in townships tend to be cheaper than at remote roadhouses. Teams need to be 
+aware that there can be many hundreds of kilometres between fuel, charging stops, and it is 
+important that you have enough fuel for all your vehicles to make it along the highway.  
+For EV charging information, please refer to the following: 
+• EV charging stations – Our electric vehicle network | RAA 
+• Charging an EV | NRMA Electric Vehicle Fast Charger Network (mynrma.com.au) 
+Control Stops 
+The location, along with the operation times, of the declared control stops  will be available following 
+the route survey in June 2027. Undeclared control stops may be created at any time. 
+As you travel south, Control Stop times are extended as the gap between leading and trailing teams 
+widens. If you reach a Control Stop with less than 30 minutes until an end of day closure, the balance 
+of your 30 minutes can be served when it reopens the next morning, noting that you must ‘check -in’ 
+for the clock to be resumed. If you arrive at a Control Stop that has less than 30 minutes before it 
+closes, the Clerk of the Course will advise the procedure relevant to your circumstances. 
+Team Managers should make themselves familiar with Regulation 3.27 detailing Control Stop 
+activities, which again differ from previous events.  
+You must follow all directions given by cont rol stop signs and control stop staff. Parking spaces for 
+competition vehicle will be allocated in order of competition vehicle arrival you will not be allowed to 
+‘reserve’ a parking space for your competition vehicle. 
+You may wish to send a scout party ahead to check the control stop . However, please note there is 
+limited space available, therefore all team vehicles, except the competition vehicle and escort vehicles, 
+must keep well clear of reserved areas at control stops. 
+Teams are responsible for the timing of their control stops. The Control Stop Manager will provide the 
+departure time for your team. It is not your Observer’s responsibility to manage your time keeping. 
+The control stops are also an opportunity to provide your sponsors with a media opportunity, and give 
+time to refresh, refuel and regroup. This is also the point at which your Observer may  be changed, 
+and any time penalties may be served. 
+Keeping up with open Control Stops 
+Teams are required to maintain a speed of at least 60 km/h on the open road (Regulation 3.29.1) and 
+achieve 500 km per day.  
+The closing time of control stops  will be calculated to reflect the minimum progress required by the 
+regulations, with some slack to allow for recovery from breakdowns. But if your team is not able to 
+
+--- page 35 ---
+ 
+35 
+OFFICIAL 
+reach a control stop before it closes, it must carry the competition vehicle forwards to the next open 
+control stop. 
+On Road Behaviour and Safety 
+Participants must not confuse the Bridgestone World Solar Challenge with mainstream motor racing. 
+The event uses public roads, and the Regulations demand compliance with all civil traffic regulations. 
+It is important to remember that the event is a challenge, not a race. 
+Competitors who seek all-out racing may seek out several solar events around the world that provide 
+the opportunity of a few hours on the racetrack, and the thrills and spills of neck-and-neck competition. 
+The Bridgestone World Solar Challenge is run over 3,000,000 metres, and there is little excuse to run 
+off the road during the first 100 metres. Neither is there any excuse for running red lights or speeding 
+through the small communities along the way. 
+The following text is taken from an independent report during a previous event: 
+‘Disappointingly, behavioural problems seemed to be more prevalent than in previous 
+years. There were several narrow misses, and at least two actual collisions involving 
+Solar EV, suppor t vehicles or other road users. ‘Xxxx’s front left side was  damaged 
+slightly when it was forced to pull in suddenly while trying to overtake ‘xxxx’. The trailer 
+of xxxx was hit from behind by another vehicle. At least one team was prosecuted for 
+a traffic infringement (driving on the wrong side of the road). Admittedly, some of the 
+driving habits exhibited by media vehicles and other non -participants were less than 
+exemplary, but there were numerous problems among event participants. 
+Several observers complained of incidents involving failures to give way to traffic, 
+vehicles travelling too close to one another, dangerous overtaking manoeuvres, 
+vehicles failing to pull off the road completely when stopped, drivers dozing off, and 
+team members walking onto the highway without due care.  The Stuart Highway is a 
+dangerous place to be at the best of times, without teams increasing the risk of mishap 
+through irresponsible behaviour.’ 
+This, together with our own observations, is a major concern to us, and may well affect the future of 
+competition vehicle events on the public highway of Australia. 
+The event organiser takes your safety seriously and will not hesitate to impose event penalties 
+on any team not behaving in accordance with normal traffic protocol. 
+Tracking  
+Your car will be fitted with a data logger during scrutineering. In normal circumstances no further action 
+is required. Note that the ‘box’ remains the property of the event organiser (see Regulation 2.9). 
+Radio Communications (See Regulation 3.8) 
+We have had many enquiries concerning acceptable radio frequencies. Anything concerned with the 
+event must comply with Australian civil laws. The Australian federal regulations, together with the radio 
+
+--- page 36 ---
+ 
+36 
+OFFICIAL 
+spectrum details, can be found at  https://acma.gov.au or you can email an enquiry to 
+info@acma.gov.au  
+Escort vehicles (see Regulation 3.6) are required to have, and use, radios operating in the 477 MHz 
+UHF Citizens Band . Teams will be supplied with two UHF radios ( Regulation 3.8), which are to be 
+used in your lead and chase vehicles. It is strongly advised that all remaining team vehicles carry the 
+same equipment. Suitable UHF CB radios can be hired or purchased from many sources, for example 
+Electric Bug | UHF Radios, GPS, Satellite Phone, Ram Mounts. 
+As far as telemetry is concerned, Australian Communications and Media Authority have advised that 
+they are aware that for events such as this (and even the F1 Grand Prix) overseas teams will inevitably 
+be using equipment not built for the Australian market.  The Authority has advised that their primary 
+concern is the prevention of interference to licenced users, implying that low power devices used in 
+the desert are unlikely to present any problems.  However, your main concern would be that your 
+chosen frequency would be traffic and interference free. 
+If you are using equipment from your own country that was out of band as far as Australia is concerned, 
+there would be no guarantee that  you wouldn't be swamped by licenced users transmitting not only 
+speech, but telemetry or data packets when you least expected it, and there are many remote 
+installations—pumping stations, livestock control or remote area solar power systems (RAPS) that 
+have the potential to do that. 
+Satellite Phones (See Regulation 3.8.2) 
+Teams will be supplied with one Satellite Phone and two UHF radios (these are to be used in your 
+lead and chase vehicles) . You are required to have your satellite telephone switched on during 
+event hours. Telephone numbers which can be used in an emergency will be provided via a Team 
+Notice. 
+Remotely Piloted Aircraft (Drones) 
+All remotely piloted aircraft (RPA) used during the 2027 Bridgestone World Solar Challenge by any 
+registered team member must be registered in accordance with Civil Aviation Safety Authority (CASA) 
+regulations. The RPA pilot will also need to be accredited in compliance with  CASA regulations to 
+operate the RPA . The process for RPA registration and pilot accreditation is available through the 
+CASA website. 
+Further to the requirements of Regulation 1.28.1, which states that RPA must not be operated with 
+the approval of the event organiser, persons seeking to operate an RPA in association with the 2027 
+event must apply through the event media accreditation process. 
+Teams must also complete the online form requesting approval to operate an RPA, which will be made 
+available on the team portal, and will include the following fields: 
+• Purpose of use 
+• Details of RPA —type, weight etc. 
+• Copy of relevant CASA registration and licence 
+• Copy of insurance (teams should include RPA operation in their insurance policy coverage)  
+
+--- page 37 ---
+ 
+37 
+OFFICIAL 
+• Proposed flight plan/schedule. 
+The event organiser will review the requests and advise provisional approval in writing to the Team 
+Manager. Formal approval will be provided upon confirmation of requests  from the pilot and Team 
+Manager in person at Event Headquarters.  
+Please note that due to the proximity to the airport, RPA use is prohibited at the Event Headquarters. 
+For teams who wish to investigate potential RPA operation in Darwin, at the time of publication of this 
+document, discussions are still underway with the City of Darwin with regards to approval process and 
+requirements. Further information will be provided as it becomes available. 
+Approved operators must confirm requests to fly between 7 August and 21 August 2027 a minimum 
+of 24 hours in advance, in person to the Help Desk at Event Headquarters. Requests to operate after 
+the event’s departure from the Official Start Line must be made through Mission Control in Adelaide 
+via mobile (TBC). 
+Approval will only be given to operators registered and accredited through the media registration 
+process. Logs of operational locations and times must be forwarded to Mission Control as soon as 
+possible on completion of operations, but no more than 24 hours later. 
+  
+
+--- page 38 ---
+ 
+38 
+OFFICIAL 
+Adelaide and the Event Finish 
+Official Finish (See Regulation 4.4) 
+The Official Finish Line will, once again, be in Victoria Square, the central point of the City of Adelaide. 
+Further details will be announced once final arrangements have been confirmed. 
+Staging Point 
+The event will establish an operational staging point on the approach to Victoria Square. Location and 
+procedural details will be provided via the route notes and a team notice.  
+When your team arrives at the staging point in Adelaide, the competition vehicle will be held here to 
+allow time for team members to take their place on the finish line. Team arrival into Victoria Square 
+will be under event organiser instruction. Each team will then be given about 15 minutes on the finish 
+line for photographs. 
+The competition vehicle will then be subject to final scrutineering and placed on display. 
+Public Engagement/ Promotional Activities   
+Competition vehicles will be placed on display to the public until Sunday 29 August 2027, and teams 
+are required to have team members with the car to engage with the public and to welcome 
+other teams over the finish line. Security will be provided. 
+Other promotional, public engagement and event activities will also be held at the finish line and further 
+details will be announced closer to the event. 
+Per Regulations 1.12.2 and 1.27 , any requests to attend or participate in promotional activities or 
+public appearances etc are obligatory  for all registered teams. A detailed program will be provided 
+once details are finalised however may include the following: 
+• Attendance at the City of Adelaide Lord Mayor’s Civic Reception 
+• Attendance at event media calls 
+• Meet and greets with event sponsors and key stakeholders 
+• Involvement in industry or business networking sessions 
+Street Parade 
+At the conclusion of the finish line activities, all teams will participate in a Street Parade from the Finish 
+Line to the pack  down facility. All competition vehicles will first be on display for the public  to view 
+before waving you off as the cars make their way to the pack down facility.  
+Further details, including times, will be announced closer to the event. 
+
+--- page 39 ---
+ 
+39 
+OFFICIAL 
+Awards Ceremony  
+The Awards Ceremony will be held on Sunday 29 August 2027 (see Regulation 4.5) in Adelaide, full 
+details regarding location and timing will be provided in the relevant team notice. 
+Tickets will be allocated commensurate with the number of registered team members at no cost. 
+Tickets for non- registered persons (public, friends, family, sponsors)  may be purchased from 
+Saturday 7 August 2027 until 2pm Saturday 28 August 2027. Ticket prices are still to be confirmed. 
+Teams are encouraged to wear their team uniform or National Dress. Doors open at 18:00. Remember 
+to bring any team shirts you may wish to trade with other teams. 
+It has become usual for the celebrations  to continue at a nearby late -night venue nominated for an 
+‘unofficial’ after party! 
+Further details concerning the Awards Ceremony , including ticket prices will be provided in a team 
+notice. 
+Pack Down – Victoria Park  
+Your containers and crates may be delivered to the official pack down area as advised in the Freight 
+Manual from Wednesday 25 August 2027. Further details of the pack down facility will be advised via 
+Team Notice in due course. 
+Any equipment required for loading/unloading your container is your team’s responsibility.  
+Please note that Team Managers are responsible for any contractor they invite on to site, as care 
+needs to be taken to minimise any damage to the ground. Please refer to the Freight Manual for details 
+of export formalities. 
+The pack down site will be available until the afternoon of Wednesday 1 September 2027. Any freight 
+remaining on site will be removed to a storage facility at the owner’s expense. 
+Rubbish/Unwanted Items 
+Please plan to minimise your waste.  Skips will be provided for rubbish and recycling; however, 
+experience shows that after the Bridg estone World Solar Challenge there may be perfectly useable 
+items which are uneconomical to ship back to your home country. 
+An area will be put aside for the deposit of any items which may be useful to others and, depending 
+on the nature of the items, they will be passed on to help other community groups such as the Scouts, 
+Salvation Army, Red Cross Australia. 
+Separate arrangements will need to be made for the disposal of hazardous substances. Please 
+contact Mission Control to discuss. 
+ 
+  
+
+--- page 40 ---
+ 
+40 
+OFFICIAL 
+Appendix  
+Event Schedule 
+See Regulation 1.12 
+Event Locations 
+Event Headquarters  
+Hidden Valley Motor Sport Complex 
+Pit Garages available from 08:00 Saturday 7 August 2027 to noon Sunday 22 August 2027. 
+Dynamic scrutineering 
+Hidden Valley Motor Sport Complex – Saturday 21 August 2027 0700-1400 
+Static scrutineering / Registration  
+Location to be advised – from Monday 16 August 2027  
+Official Start Line 
+Location to be advised – Sunday 22 August 2027. 
+Staging Area for Official Finish 
+Location to be advised – from Wednesday 25 August – Saturday 29 August 2027  
+Victoria Park 
+Parking, pack down and freight collection point from Wednesday 25 August until noon Wednesday 1 
+September 2027 
+Victoria Square, Adelaide 
+Official City of Adelaide Finish Line – from Wednesday 25 – Sunday 29 August 2027. 
+Awards ceremony 
+Location to be advised – from 18:00 Sunday 29 August 2027.  
+ 
+
+--- page 41 ---
+www.worldsolarchallenge.org
