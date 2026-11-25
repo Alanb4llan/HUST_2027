@@ -30,3 +30,6 @@ build/
 
 # graphify knowledge graph (local, regenerate with /graphify)
 graphify-out/
+
+# Team photos (kept locally only)
+pictures/
