@@ -1,0 +1,299 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Sida-1" id="_nPwCiy2vN-t03vMwvkW">
+    <mxGraphModel dx="2070" dy="1351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-111" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="" vertex="1">
+          <mxGeometry height="140" width="150" x="1420" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-108" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="" vertex="1">
+          <mxGeometry height="165" width="205" x="840" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-105" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="" vertex="1">
+          <mxGeometry height="310" width="370" x="860" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-103" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" value="" vertex="1">
+          <mxGeometry height="155" width="330" x="1290" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
+          <mxGeometry height="310" width="780" x="20" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;" value="" vertex="1">
+          <mxGeometry height="380" width="370" x="20" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#9999FF;textOpacity=40;textShadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="380" width="360" x="440" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-18" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="q8y55sxuQ0XhHYsmDEyq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="UI.lora_tab.py" vertex="1">
+          <mxGeometry height="50" width="90" x="85" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="UI.main_window.py" vertex="1">
+          <mxGeometry height="40" width="120" x="70" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-20" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="q8y55sxuQ0XhHYsmDEyq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="UI.UI2.py&lt;div&gt;W, S, N, G, E, I&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-19" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="q8y55sxuQ0XhHYsmDEyq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-45" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="q8y55sxuQ0XhHYsmDEyq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="LORA.Receiver.py&lt;div&gt;D, T&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="490" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="LORA.LoraRapport.py&lt;div&gt;R&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="650" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-25" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="q8y55sxuQ0XhHYsmDEyq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="LORA.ReadData.py&lt;div&gt;D, L&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="490" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-46" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="q8y55sxuQ0XhHYsmDEyq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="LORA.ReceiverPack.py&lt;div&gt;L, O&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="670" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-21" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="q8y55sxuQ0XhHYsmDEyq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="UI.extra_classes.py&lt;div&gt;W&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="251" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-26" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="q8y55sxuQ0XhHYsmDEyq-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="LORA.LORA.py" vertex="1">
+          <mxGeometry height="60" width="120" x="490" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-27" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="q8y55sxuQ0XhHYsmDEyq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-30" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.645;entryY=1.01;entryDx=0;entryDy=0;" target="q8y55sxuQ0XhHYsmDEyq-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-56" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="q8y55sxuQ0XhHYsmDEyq-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Strategi.INDATA.py&lt;div&gt;N, D, L, C, P, O&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="610" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-34" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="q8y55sxuQ0XhHYsmDEyq-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Strategi.FORB.py&lt;div&gt;N, L&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="430" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-29" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="q8y55sxuQ0XhHYsmDEyq-9">
+          <mxGeometry relative="1" x="-0.1481" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="560" />
+              <mxPoint x="440" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-55" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="q8y55sxuQ0XhHYsmDEyq-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Strategi.SOLBIL.py" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-36" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="q8y55sxuQ0XhHYsmDEyq-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Strategi.RESA.py" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-33" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="q8y55sxuQ0XhHYsmDEyq-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-40" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="q8y55sxuQ0XhHYsmDEyq-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Strategi.DISTANS.py&lt;div&gt;M&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="610" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-39" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="q8y55sxuQ0XhHYsmDEyq-13">
+          <mxGeometry relative="1" x="0.2462" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Strategi.SOLPLAN.py" vertex="1">
+          <mxGeometry height="60" width="120" x="610" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Strategi.OPT.py" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-51" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="q8y55sxuQ0XhHYsmDEyq-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=left;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Importerade standardpaket&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;C:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;csv&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;D:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;datetime&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;E:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;PyQt6.QtCore&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;G:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;pyqtgraph&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;I:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;PyQt6.QtGui&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;L:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;matplotlib&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;M:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;math&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;N:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;numpy&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;O:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;os&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;P: pandas&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;T: time&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;R:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;reportlab&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;S:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;sys&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;W:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;PyQt6.QtWidgets&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="302" width="249" x="20" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Allmän Programstruktur&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="470" x="20" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-62" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="q8y55sxuQ0XhHYsmDEyq-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="UI.lora_tab.py" vertex="1">
+          <mxGeometry height="50" width="90" x="905" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="UI.main_window.py" vertex="1">
+          <mxGeometry height="40" width="120" x="890" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-65" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="q8y55sxuQ0XhHYsmDEyq-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="UI.UI2.py&lt;div&gt;W, S, N, G, E, I&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-67" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="q8y55sxuQ0XhHYsmDEyq-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-68" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="q8y55sxuQ0XhHYsmDEyq-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="LORA.Receiver.py&lt;div&gt;D, T&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1310" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="LORA.LoraRapport.py&lt;div&gt;R&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1470" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-71" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="q8y55sxuQ0XhHYsmDEyq-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="LORA.ReadData.py&lt;div&gt;D, L&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1310" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-73" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="q8y55sxuQ0XhHYsmDEyq-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-74" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="LORA.ReceiverPack.py&lt;div&gt;L, O&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1490" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-75" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="q8y55sxuQ0XhHYsmDEyq-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-76" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="UI.extra_classes.py&lt;div&gt;W&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1071" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-77" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="q8y55sxuQ0XhHYsmDEyq-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-78" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="LORA.LORA.py" vertex="1">
+          <mxGeometry height="60" width="120" x="1310" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-79" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="q8y55sxuQ0XhHYsmDEyq-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-80" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.645;entryY=1.01;entryDx=0;entryDy=0;" target="q8y55sxuQ0XhHYsmDEyq-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-81" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="q8y55sxuQ0XhHYsmDEyq-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-82" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Strategi.INDATA.py&lt;div&gt;N, D, L, C, P, O&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1430" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-83" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="q8y55sxuQ0XhHYsmDEyq-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-84" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Strategi.FORB.py&lt;div&gt;N, L&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1250" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-85" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="q8y55sxuQ0XhHYsmDEyq-78">
+          <mxGeometry relative="1" x="-0.1481" as="geometry">
+            <Array as="points">
+              <mxPoint x="1260" y="560" />
+              <mxPoint x="1260" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-86" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="q8y55sxuQ0XhHYsmDEyq-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-87" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Strategi.SOLBIL.py" vertex="1">
+          <mxGeometry height="60" width="120" x="1060" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-88" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="q8y55sxuQ0XhHYsmDEyq-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-89" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Strategi.RESA.py" vertex="1">
+          <mxGeometry height="60" width="120" x="1060" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-90" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="q8y55sxuQ0XhHYsmDEyq-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-91" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="q8y55sxuQ0XhHYsmDEyq-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-92" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Strategi.DISTANS.py&lt;div&gt;M&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1430" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-93" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="q8y55sxuQ0XhHYsmDEyq-89">
+          <mxGeometry relative="1" x="0.2462" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-94" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Strategi.SOLPLAN.py" vertex="1">
+          <mxGeometry height="60" width="120" x="1430" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-95" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Strategi.OPT.py" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-96" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="q8y55sxuQ0XhHYsmDEyq-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-97" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=left;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Importerade standardpaket&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;C:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;csv&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;D:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;datetime&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;E:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;PyQt6.QtCore&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;G:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;pyqtgraph&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;I:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;PyQt6.QtGui&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;L:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;matplotlib&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;M:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;math&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;N:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;numpy&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;O:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;os&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;P: pandas&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;T: time&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;R:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;reportlab&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;S:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;sys&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;W:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;PyQt6.QtWidgets&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="302" width="249" x="840" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-98" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Funktionell Programstruktur&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="470" x="840" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-100" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;UI mappen&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="220" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-101" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;LORA mappen&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="560" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-102" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Strategi mappen&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="410" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-104" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=23;fontStyle=1;verticalAlign=middle;align=center;autosizeText=1;" value="Lora rapportering" vertex="1">
+          <mxGeometry height="40" width="190" x="1390" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-106" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=21;fontStyle=1;verticalAlign=middle;align=center;autosizeText=1;" value="Visualisera med UI" vertex="1">
+          <mxGeometry height="40" width="190" x="1025" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-109" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=21;fontStyle=1;verticalAlign=middle;align=center;autosizeText=1;" value="Strategi i consol" vertex="1">
+          <mxGeometry height="40" width="160" x="862.5" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-110" edge="1" parent="1" source="q8y55sxuQ0XhHYsmDEyq-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="q8y55sxuQ0XhHYsmDEyq-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8y55sxuQ0XhHYsmDEyq-112" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=23;fontStyle=1;verticalAlign=middle;align=center;autosizeText=1;" value="Kärnimport" vertex="1">
+          <mxGeometry height="40" width="120" x="1430" y="490" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
