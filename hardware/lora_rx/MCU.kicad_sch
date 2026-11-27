@@ -4081,7 +4081,7 @@
 			)
 		)
 	)
-	(global_label "DIO1"
+	(global_label "Busy"
 		(shape input)
 		(at 120.65 120.65 180)
 		(fields_autoplaced yes)
@@ -4249,7 +4249,7 @@
 			)
 		)
 	)
-	(global_label "BUSY"
+	(global_label "DIO0"
 		(shape input)
 		(at 120.65 107.95 180)
 		(fields_autoplaced yes)
@@ -4261,7 +4261,7 @@
 		)
 		(uuid "ecde1c0d-d3c6-48c1-a04f-2129fe1dc0f7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 114.3432 107.95 0)
+			(at 114.7303 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
