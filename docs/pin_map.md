@@ -3,7 +3,7 @@
 **Sources**
 - `hardware/main_pcb/*.kicad_sch`, read through a netlist exported with `kicad-cli sch export netlist` (KiCad 10). The schematic is treated as **authoritative**.
 - `wiring/EXT_INT_PINOUTS.xlsx` (identical to `hardware/main_pcb/EXT_INT_PINOUTS.xlsx`).
-- Alternate functions and ADC channels come from `datasheets/MicroControllerUnit_stm32l476j.pdf` (DS10198 Rev 11, Table 16).
+- Alternate functions and ADC channels come from `datasheets/Main_PCB/MCU_DS_stm32l476rg.pdf` (DS10198 Rev 11, Table 16).
 
 > ⚠️ **The spreadsheet and the schematic disagree.** The "NUCLEO MAPPING" sheet in the xlsx looks like an older Nucleo prototype. In it, PA9 is the right indicator, PA8 the left indicator, PA10 the brake lights, PB3 the screen reset, and LoRa uses PC10/PC11/PC12 on the Molex connector. The schematic (current PCB) has different assignments, and the "MOLEX 48" positions in the xlsx don't match the J1 pin names in the schematic either. **`HUST27.ino` follows the old spreadsheet.** See the conflicts section below. → **Question: is the schematic the current revision, and should the xlsx be updated?**
 

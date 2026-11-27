@@ -33,3 +33,7 @@ graphify-out/
 
 # Team photos (kept locally only)
 pictures/
+
+# Gerbers (generated from KiCad)
+*.gbr
+*.gbrjob
